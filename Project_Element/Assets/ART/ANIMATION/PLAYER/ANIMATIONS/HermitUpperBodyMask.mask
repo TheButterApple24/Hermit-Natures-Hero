@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HermitUpperBodyMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: HermitRig_ArmLIKTarget
+    m_Weight: 1
+  - m_Path: HermitRig_ArmRIKTarget
+    m_Weight: 1
+  - m_Path: HermitRig_LegLPlatform
+    m_Weight: 0
+  - m_Path: HermitRig_LegRPlatform
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegL11
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegL11/HermitRig_LegL12
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegL11/HermitRig_LegL12/HermitRig_LegL21
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegL11/HermitRig_LegL12/HermitRig_LegL21/HermitRig_LegL22
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegL11/HermitRig_LegL12/HermitRig_LegL21/HermitRig_LegL22/HermitRig_LegL23
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegL11/HermitRig_LegL12/HermitRig_LegL21/HermitRig_LegL22/HermitRig_LegL23/HermitRig_LegLAnkle
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegL11/HermitRig_LegL12/HermitRig_LegL21/HermitRig_LegL22/HermitRig_LegL23/HermitRig_LegLAnkle/HermitRig_LegLToe
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegR11
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegR11/HermitRig_LegR12
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegR11/HermitRig_LegR12/HermitRig_LegR21
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegR11/HermitRig_LegR12/HermitRig_LegR21/HermitRig_LegR22
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegR11/HermitRig_LegR12/HermitRig_LegR21/HermitRig_LegR22/HermitRig_LegR23
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegR11/HermitRig_LegR12/HermitRig_LegR21/HermitRig_LegR22/HermitRig_LegR23/HermitRig_LegRAnkle
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_LegR11/HermitRig_LegR12/HermitRig_LegR21/HermitRig_LegR22/HermitRig_LegR23/HermitRig_LegRAnkle/HermitRig_LegRToe
+    m_Weight: 0
+  - m_Path: HermitRig_Pelvis/HermitRig_PelvisRotator
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Belt
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Belt/HermitRig_Sheath
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_CoinPouch
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21/HermitRig_ArmL22
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21/HermitRig_ArmL22/HermitRig_ArmL23
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21/HermitRig_ArmL22/HermitRig_ArmL23/HermitRig_ArmLPalm
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21/HermitRig_ArmL22/HermitRig_ArmL23/HermitRig_ArmLPalm/HermitRig_ArmLDigit11
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21/HermitRig_ArmL22/HermitRig_ArmL23/HermitRig_ArmLPalm/HermitRig_ArmLDigit11/HermitRig_ArmLDigit12
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21/HermitRig_ArmL22/HermitRig_ArmL23/HermitRig_ArmLPalm/HermitRig_ArmLDigit21
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmLCollarbone/HermitRig_ArmL11/HermitRig_ArmL12/HermitRig_ArmL13/HermitRig_ArmL21/HermitRig_ArmL22/HermitRig_ArmL23/HermitRig_ArmLPalm/HermitRig_ArmLDigit21/HermitRig_ArmLDigit22
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21/HermitRig_ArmR22
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21/HermitRig_ArmR22/HermitRig_ArmR23
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21/HermitRig_ArmR22/HermitRig_ArmR23/HermitRig_ArmRPalm
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21/HermitRig_ArmR22/HermitRig_ArmR23/HermitRig_ArmRPalm/HermitRig_ArmRDigit11
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21/HermitRig_ArmR22/HermitRig_ArmR23/HermitRig_ArmRPalm/HermitRig_ArmRDigit11/HermitRig_ArmRDigit12
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21/HermitRig_ArmR22/HermitRig_ArmR23/HermitRig_ArmRPalm/HermitRig_ArmRDigit21
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_ArmRCollarbone/HermitRig_ArmR11/HermitRig_ArmR12/HermitRig_ArmR13/HermitRig_ArmR21/HermitRig_ArmR22/HermitRig_ArmR23/HermitRig_ArmRPalm/HermitRig_ArmRDigit21/HermitRig_ArmRDigit22
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_Backpack
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_CapeMain
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_CapeMain/HermitRig_CapeLeft01
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_CapeMain/HermitRig_CapeLeft01/HermitRig_CapeLeft02
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_CapeMain/HermitRig_CapeMid01
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_CapeMain/HermitRig_CapeMid01/HermitRig_CapeMid02
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_CapeMain/HermitRig_CapeRight01
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_CapeMain/HermitRig_CapeRight01/HermitRig_CapeRight02
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_Neck
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_Neck/HermitRig_Head
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_Neck/HermitRig_Head/HermitRig_Bangs01
+    m_Weight: 1
+  - m_Path: HermitRig_Pelvis/HermitRig_Spine1/HermitRig_Spine2/HermitRig_Chest/HermitRig_Neck/HermitRig_Head/HermitRig_Bangs01/HermitRig_Bangs02
+    m_Weight: 1
+  - m_Path: HermitRigged
+    m_Weight: 1

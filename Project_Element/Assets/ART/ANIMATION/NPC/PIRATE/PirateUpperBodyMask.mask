@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PirateUpperBodyMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: GenericRig_ArmLIKTarget
+    m_Weight: 1
+  - m_Path: GenericRig_ArmRIKTarget
+    m_Weight: 1
+  - m_Path: GenericRig_LegLPlatform
+    m_Weight: 1
+  - m_Path: GenericRig_LegRPlatform
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis
+    m_Weight: 0
+  - m_Path: GenericRig_Pelvis/GenericRig_LegL11
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegL11/GenericRig_LegL12
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegL11/GenericRig_LegL12/GenericRig_LegL21
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegL11/GenericRig_LegL12/GenericRig_LegL21/GenericRig_LegL22
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegL11/GenericRig_LegL12/GenericRig_LegL21/GenericRig_LegL22/GenericRig_LegL23
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegL11/GenericRig_LegL12/GenericRig_LegL21/GenericRig_LegL22/GenericRig_LegL23/GenericRig_LegLAnkle
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegL11/GenericRig_LegL12/GenericRig_LegL21/GenericRig_LegL22/GenericRig_LegL23/GenericRig_LegLAnkle/GenericRig_LegLToe
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegR11
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegR11/GenericRig_LegR12
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegR11/GenericRig_LegR12/GenericRig_LegR21
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegR11/GenericRig_LegR12/GenericRig_LegR21/GenericRig_LegR22
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegR11/GenericRig_LegR12/GenericRig_LegR21/GenericRig_LegR22/GenericRig_LegR23
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegR11/GenericRig_LegR12/GenericRig_LegR21/GenericRig_LegR22/GenericRig_LegR23/GenericRig_LegRAnkle
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_LegR11/GenericRig_LegR12/GenericRig_LegR21/GenericRig_LegR22/GenericRig_LegR23/GenericRig_LegRAnkle/GenericRig_LegRToe
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_PelvisRotator
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21/GenericRig_ArmL22
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21/GenericRig_ArmL22/GenericRig_ArmL23
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21/GenericRig_ArmL22/GenericRig_ArmL23/GenericRig_ArmLPalm
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21/GenericRig_ArmL22/GenericRig_ArmL23/GenericRig_ArmLPalm/GenericRig_ArmLDigit11
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21/GenericRig_ArmL22/GenericRig_ArmL23/GenericRig_ArmLPalm/GenericRig_ArmLDigit11/GenericRig_ArmLDigit12
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21/GenericRig_ArmL22/GenericRig_ArmL23/GenericRig_ArmLPalm/GenericRig_ArmLDigit21
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmLCollarbone/GenericRig_ArmL11/GenericRig_ArmL12/GenericRig_ArmL13/GenericRig_ArmL21/GenericRig_ArmL22/GenericRig_ArmL23/GenericRig_ArmLPalm/GenericRig_ArmLDigit21/GenericRig_ArmLDigit22
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21/GenericRig_ArmR22
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21/GenericRig_ArmR22/GenericRig_ArmR23
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21/GenericRig_ArmR22/GenericRig_ArmR23/GenericRig_ArmRPalm
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21/GenericRig_ArmR22/GenericRig_ArmR23/GenericRig_ArmRPalm/GenericRig_ArmRDigit11
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21/GenericRig_ArmR22/GenericRig_ArmR23/GenericRig_ArmRPalm/GenericRig_ArmRDigit11/GenericRig_ArmRDigit12
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21/GenericRig_ArmR22/GenericRig_ArmR23/GenericRig_ArmRPalm/GenericRig_ArmRDigit21
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_ArmRCollarbone/GenericRig_ArmR11/GenericRig_ArmR12/GenericRig_ArmR13/GenericRig_ArmR21/GenericRig_ArmR22/GenericRig_ArmR23/GenericRig_ArmRPalm/GenericRig_ArmRDigit21/GenericRig_ArmRDigit22
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_Neck
+    m_Weight: 1
+  - m_Path: GenericRig_Pelvis/GenericRig_Spine1/GenericRig_Spine2/GenericRig_Chest/GenericRig_Neck/GenericRig_Head
+    m_Weight: 1
+  - m_Path: PirateRigged
+    m_Weight: 1
