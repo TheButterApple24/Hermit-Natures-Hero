@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8336870973453809935
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5553073263368512841, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ac94e5f829b6c264f9298009d5af5499, type: 2}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 647.457
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25.162825
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 856.27625
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512847, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 21300000, guid: e6c7e305543dfad478151328e1dd92b3, type: 3}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_ItemID
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: BaseMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: ac94e5f829b6c264f9298009d5af5499, type: 2}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: FireMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 20d40b5ec3fa64b4b95c9bb4a06b7aec, type: 2}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: PlantMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: c8cfad84b98224a4cbd0841b91930b6f, type: 2}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: WaterMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 82ca82043bd37284b8363a39ca5d559f, type: 2}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_BaseMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: ac94e5f829b6c264f9298009d5af5499, type: 2}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_FireMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 20d40b5ec3fa64b4b95c9bb4a06b7aec, type: 2}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_PlantMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: c8cfad84b98224a4cbd0841b91930b6f, type: 2}
+    - target: {fileID: 5553073263368512948, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_WaterMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 82ca82043bd37284b8363a39ca5d559f, type: 2}
+    - target: {fileID: 5553073263368512949, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: m_Name
+      value: SwordStraightGhost
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219355118736012304, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: -2783911946665556106, guid: fc3b60603f2e80f408dd58c410c3395f, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5f76924456f4540418d0fc4237f529f6, type: 3}

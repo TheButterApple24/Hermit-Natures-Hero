@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5225793654487527090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7759025476765931726}
+  - component: {fileID: 8534256175654526859}
+  m_Layer: 0
+  m_Name: PoisonInventory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7759025476765931726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5225793654487527090}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -191.22, y: -2.6999989, z: 189.31}
+  m_LocalScale: {x: 2.4461303, y: 2.4461303, z: 2.4461303}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8534256175654526859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5225793654487527090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b4db1f8b6cd6d34ca7243bd3c497614, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ItemID: 10
+  m_CanInteract: 0
+  m_Player: {fileID: 0}
+  m_PlayerController: {fileID: 0}
+  m_ButtonPrompt: {fileID: 0}
+  m_ButtonPromptOffset: {x: 0, y: 2, z: 0}
+  m_IsInteractable: 1
+  m_IsBeingHeld: 0
+  m_PotionType: 0
+  m_EffectDuration: 10
+  m_OriginalValue: 0
+  m_Activated: 0
+  m_PoisonAmount: 10

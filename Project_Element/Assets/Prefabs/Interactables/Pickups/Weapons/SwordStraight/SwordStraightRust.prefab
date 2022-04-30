@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7718717984547397876
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 647.457
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25.162825
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 856.27625
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240448, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240454, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e318409d53f16424d9f1fe92872157cb, type: 2}
+    - target: {fileID: 4513443885220240570, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_Name
+      value: SwordStraightRust
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 21300000, guid: 8ac22631f571c0a4e9d02045592bbbd7, type: 3}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_ItemID
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: BaseMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: e318409d53f16424d9f1fe92872157cb, type: 2}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: FireMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 17cc1080cb10cb6428812c6ba8740464, type: 2}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: PlantMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 88909252a5658634ab6c18420f4c7844, type: 2}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: WaterMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: d5ca126b56593e344a2ceb84e9d3fad6, type: 2}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_BaseMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: e318409d53f16424d9f1fe92872157cb, type: 2}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_FireMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 17cc1080cb10cb6428812c6ba8740464, type: 2}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_PlantMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 88909252a5658634ab6c18420f4c7844, type: 2}
+    - target: {fileID: 4513443885220240571, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
+      propertyPath: m_WaterMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: d5ca126b56593e344a2ceb84e9d3fad6, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 59a681b80bce5b247bcd4e0c5ce7e77b, type: 3}
