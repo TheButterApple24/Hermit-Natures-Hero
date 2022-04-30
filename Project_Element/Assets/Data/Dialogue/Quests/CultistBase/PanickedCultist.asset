@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: PanickedCultist
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Panicked Cultist
+    m_Line: Hey, adventurer! I know I'm a cultist, but please help me!
+    m_InID: 51875493-fef7-495a-8fd8-073bf39f68dc
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Panicked Cultist
+    m_Line: Okay, well if you're not going to help me, at least save yourself. Don't
+      go any farther!
+    m_InID: cbdff4eb-9c01-4901-ac4c-302097323c6d
+    m_OutID: b4e924be-bef7-4e07-8c4b-d09488403dfa
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Panicked Cultist
+    m_Line: You'll actually help? Thank you! I swear, after all this is over, I'm
+      leaving the cult for good!
+    m_InID: d593caa6-701f-4065-aca4-c0fe5a54d8b2
+    m_OutID: 7a17331f-fa01-464d-b5f8-c80967a107b6
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  - m_SpeakerName: Panicked Cultist
+    m_Line: "There\u2019s some crazed villager with an awful sword ahead! Don\u2019t
+      say I didn\u2019t warn you..."
+    m_InID: 3ae5dbef-1d33-463a-a313-697474f2a1bd
+    m_OutID: 7e3c48c4-db20-454f-b6c6-cb0a37343a9c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Panicked Cultist
+    m_Line: Anyways, here's what's going on.
+    m_InID: 6454e082-ebd0-4319-bf53-b80089f114eb
+    m_OutID: e8f819b2-cf0d-4672-bff1-a973620a2209
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Panicked Cultist
+    m_Line: There was this villager that showed up at our base. We were just gonna
+      kill her until she pulled out that...
+    m_InID: ea122380-e4cb-4376-8386-6907369b49ae
+    m_OutID: 843310f7-f728-4374-bb98-2afee2243735
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Panicked Cultist
+    m_Line: That terrible sword.
+    m_InID: b765c96b-1530-4461-9fa3-6229b1d2e561
+    m_OutID: a2062e28-a1bc-44d7-94e8-f431a8fc7225
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Panicked Cultist
+    m_Line: She started killing everyone left and right!
+    m_InID: 7d636975-97ed-4054-80ed-7fcda9560c54
+    m_OutID: 281047bd-174f-4531-87ab-f555d3b15d93
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Panicked Cultist
+    m_Line: And you know what? I think the head researcher knew. He fled a few days
+      ago. I wish I'd gone with.
+    m_InID: 981d66c9-5722-48fb-baff-21c095f7564c
+    m_OutID: 6abb3192-a46c-43e2-9800-20d8aecd6524
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Panicked Cultist
+    m_Line: But please! Stop her before she destroys everything!
+    m_InID: 284be5fe-42f3-4fe0-8d95-921e89f9690b
+    m_OutID: 5b2ddfe5-1dd9-4674-98ae-962bd137861d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  Connections:
+  - m_InID: cbdff4eb-9c01-4901-ac4c-302097323c6d
+    m_OutID: 4de20e29-5343-4172-8a59-9c864b58eb73
+  - m_InID: d593caa6-701f-4065-aca4-c0fe5a54d8b2
+    m_OutID: 6e877382-dcb0-49da-821e-2969c239a65a
+  - m_InID: 3ae5dbef-1d33-463a-a313-697474f2a1bd
+    m_OutID: b4e924be-bef7-4e07-8c4b-d09488403dfa
+  - m_InID: 6454e082-ebd0-4319-bf53-b80089f114eb
+    m_OutID: 7a17331f-fa01-464d-b5f8-c80967a107b6
+  - m_InID: ea122380-e4cb-4376-8386-6907369b49ae
+    m_OutID: e8f819b2-cf0d-4672-bff1-a973620a2209
+  - m_InID: b765c96b-1530-4461-9fa3-6229b1d2e561
+    m_OutID: 843310f7-f728-4374-bb98-2afee2243735
+  - m_InID: 7d636975-97ed-4054-80ed-7fcda9560c54
+    m_OutID: a2062e28-a1bc-44d7-94e8-f431a8fc7225
+  - m_InID: 981d66c9-5722-48fb-baff-21c095f7564c
+    m_OutID: 281047bd-174f-4531-87ab-f555d3b15d93
+  - m_InID: 284be5fe-42f3-4fe0-8d95-921e89f9690b
+    m_OutID: 6abb3192-a46c-43e2-9800-20d8aecd6524
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: No!
+    m_OutID: 4de20e29-5343-4172-8a59-9c864b58eb73
+  - m_PromptIndex: 1
+    m_Line: "I'm listening\u2026"
+    m_OutID: 6e877382-dcb0-49da-821e-2969c239a65a

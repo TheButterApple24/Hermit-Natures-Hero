@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _FarislandSign
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Since we've got you here, our team would love to introduce themselves!
+    m_InID: a5443aba-9f7c-457e-bf31-4292b87114fb
+    m_OutID: cc02fd2f-a6ef-45a8-9cd3-44d6f316db73
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: We are Digital Donut Games! The following are the members of our team,
+      in alphabetical order.
+    m_InID: ea24aea7-7156-4c5e-92e9-244878bad6b5
+    m_OutID: 85201c88-00c2-4b51-a61e-1266b18f84f4
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Aaron Wilson
+    m_Line: Gameplay Programmer, Creature Programmer, UI Programmer, Effects Artist
+    m_InID: e7ddc0b1-7fb9-43b4-94b3-fb1c8f6b8ae3
+    m_OutID: 03e56ff8-ddac-495e-bf33-b1072207b818
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Flynn Green
+    m_Line: Concept Artist, Level Designer, Tutorial Designer, Narrative Designer,
+      Music Composer, Texture Artist, Design Contact, Animator, Texture Artist
+    m_InID: a07617a5-393a-439b-b5bb-9a40f02ef03d
+    m_OutID: 01502609-ffc3-4414-85ff-d875f7cae4bd
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Gerard Hogue
+    m_Line: AI Programmer, UI Programmer
+    m_InID: 43aff358-20fe-4498-9ce0-03eb141cb0d8
+    m_OutID: 6609b52e-6455-45ee-a962-d4de21847bcf
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Hantao Zhu
+    m_Line: Concept Artist, 3D Modeller, Texture Artist, Animator
+    m_InID: 3cef22d6-226b-46fc-a8e5-8d8fa8761746
+    m_OutID: 954ce9b9-99a1-4bd9-9d9b-e632c1931231
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Jeffrey MacNab
+    m_Line: Gameplay Programmer, UI Programmer, Programming Contact, Tools Programmer
+    m_InID: 477f6206-cf1b-428d-8478-0f6e34b90c0f
+    m_OutID: 707d2c16-c6ec-43ca-a2eb-3b118f658896
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Maxime Dubois
+    m_Line: Gameplay Programmer, Concept Artist, Level Designer, UI Programmer, Effects
+      Artist
+    m_InID: 98150086-630c-4ce2-a102-d20261a8e5f3
+    m_OutID: 5e330832-d501-44e2-9bbd-1f56ef18b0d0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Mert Cakir
+    m_Line: Level Designer, 3D Modeller, Concept Artist, Texture Artist
+    m_InID: 76624ced-7176-45b8-9777-7a6ae14e1f4f
+    m_OutID: 523a41ee-25b8-418a-95ac-82d956ee27b1
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Polina Skorniakova
+    m_Line: Concept Artist, 3D Modeller, Enviromental Artist, Texture Artist
+    m_InID: bb804550-6ff3-4844-9d1f-75e49defecde
+    m_OutID: a939e638-38e7-4329-adb3-90cee0b9eeca
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Sam Korth
+    m_Line: Concept Artist, Character Artist, 3D Modeller, Texture Artist, UI Designer,
+      Level Designer, Art Contact, Animator
+    m_InID: d7a3e345-95ac-4f42-bb72-6753aba1b0bc
+    m_OutID: 37c0e96d-753a-4e95-9097-0cc6ec618be0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Zoe Purcell
+    m_Line: Gameplay Programmer, Narrative Designer, Social Media Manager (Blog,
+      Twitter), Communications Contact, Effects Artist
+    m_InID: 3764b04f-6442-4a5f-808e-242403acc7e1
+    m_OutID: 8ff04a75-5fd4-4867-a705-43a5ef083f65
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: That's out team!
+    m_InID: 93a3e958-73f9-4533-9e23-97753de133a4
+    m_OutID: de09b0ac-05e2-43f3-b1d1-b6f507f41476
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Please return to the main island to continue the game, thanks! ;)
+    m_InID: a07a91cd-22ea-4b5a-b87d-9936077cd0ba
+    m_OutID: 03123f5a-b07b-478c-be4d-16b721d409d6
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: ea24aea7-7156-4c5e-92e9-244878bad6b5
+    m_OutID: cc02fd2f-a6ef-45a8-9cd3-44d6f316db73
+  - m_InID: e7ddc0b1-7fb9-43b4-94b3-fb1c8f6b8ae3
+    m_OutID: 85201c88-00c2-4b51-a61e-1266b18f84f4
+  - m_InID: a07617a5-393a-439b-b5bb-9a40f02ef03d
+    m_OutID: 03e56ff8-ddac-495e-bf33-b1072207b818
+  - m_InID: 43aff358-20fe-4498-9ce0-03eb141cb0d8
+    m_OutID: 01502609-ffc3-4414-85ff-d875f7cae4bd
+  - m_InID: 3cef22d6-226b-46fc-a8e5-8d8fa8761746
+    m_OutID: 6609b52e-6455-45ee-a962-d4de21847bcf
+  - m_InID: 477f6206-cf1b-428d-8478-0f6e34b90c0f
+    m_OutID: 954ce9b9-99a1-4bd9-9d9b-e632c1931231
+  - m_InID: 98150086-630c-4ce2-a102-d20261a8e5f3
+    m_OutID: 707d2c16-c6ec-43ca-a2eb-3b118f658896
+  - m_InID: 76624ced-7176-45b8-9777-7a6ae14e1f4f
+    m_OutID: 5e330832-d501-44e2-9bbd-1f56ef18b0d0
+  - m_InID: bb804550-6ff3-4844-9d1f-75e49defecde
+    m_OutID: 523a41ee-25b8-418a-95ac-82d956ee27b1
+  - m_InID: d7a3e345-95ac-4f42-bb72-6753aba1b0bc
+    m_OutID: a939e638-38e7-4329-adb3-90cee0b9eeca
+  - m_InID: 3764b04f-6442-4a5f-808e-242403acc7e1
+    m_OutID: 37c0e96d-753a-4e95-9097-0cc6ec618be0
+  - m_InID: 93a3e958-73f9-4533-9e23-97753de133a4
+    m_OutID: 8ff04a75-5fd4-4867-a705-43a5ef083f65
+  - m_InID: a07a91cd-22ea-4b5a-b87d-9936077cd0ba
+    m_OutID: de09b0ac-05e2-43f3-b1d1-b6f507f41476
+  Prompts: []

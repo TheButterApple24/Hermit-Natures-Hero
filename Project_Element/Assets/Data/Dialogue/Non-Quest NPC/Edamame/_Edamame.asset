@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Edamame
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Edamame
+    m_Line: Have you spoken to my brother?
+    m_InID: 13f3c29a-3c70-43da-a877-4ba8c134824a
+    m_OutID: 1ac2fcc5-7ab3-4868-93db-30c76ab6f2c1
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Edamame
+    m_Line: "Don\u2019t listen to a word he says. He\u2019s just jealous because
+      he can\u2019t grow luscious locks like me."
+    m_InID: ba0fbd68-0929-466a-b7d8-e349e9a48708
+    m_OutID: b2d42f78-8608-4a45-9675-6eb8a13f4f67
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  Connections:
+  - m_InID: ba0fbd68-0929-466a-b7d8-e349e9a48708
+    m_OutID: 1ac2fcc5-7ab3-4868-93db-30c76ab6f2c1
+  Prompts: []

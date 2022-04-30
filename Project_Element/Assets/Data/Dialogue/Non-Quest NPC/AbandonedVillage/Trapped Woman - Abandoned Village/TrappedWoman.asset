@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: TrappedWoman
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Trapped Woman
+    m_Line: '''Sup?'
+    m_InID: aef93a45-45aa-4b3e-8172-af8034796f30
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Trapped Woman
+    m_Line: Yeah, why wouldn't I be?
+    m_InID: 4a389fb8-98cb-4664-9f06-8d0f70cf11df
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 1
+    EmotionIndex: 0
+  - m_SpeakerName: Trapped Woman
+    m_Line: Huh? Do I LOOK like I need rescuing?
+    m_InID: 44f6e1fe-1b9c-43cd-aa5b-0b7a4f20dc69
+    m_OutID: 52eb453f-bf0c-4dc9-a661-2084e74cd342
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: '"Trapped" Woman'
+    m_Line: I actually quite like it in here, thank you very much!
+    m_InID: 9a6722e4-4bc1-459c-b5cb-23a9fcb848f6
+    m_OutID: 6adb7f43-40f3-4d46-9433-fce1f2316746
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  - m_SpeakerName: '"Trapped" Woman'
+    m_Line: I have a chair and a roof over my head, not a lot of people can say that.
+    m_InID: 33bc2bbf-7b48-4e43-a22f-6908e5371f2e
+    m_OutID: 62fb35d1-189e-457b-93f6-315496ec9644
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  Connections:
+  - m_InID: 4a389fb8-98cb-4664-9f06-8d0f70cf11df
+    m_OutID: 6649e3a7-e2ed-4e2d-a4a6-5e39ae74b3be
+  - m_InID: 44f6e1fe-1b9c-43cd-aa5b-0b7a4f20dc69
+    m_OutID: 324e3f0c-47e3-41df-82e9-44176706ee67
+  - m_InID: 9a6722e4-4bc1-459c-b5cb-23a9fcb848f6
+    m_OutID: 52eb453f-bf0c-4dc9-a661-2084e74cd342
+  - m_InID: 33bc2bbf-7b48-4e43-a22f-6908e5371f2e
+    m_OutID: 6adb7f43-40f3-4d46-9433-fce1f2316746
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Are you...okay?
+    m_OutID: 6649e3a7-e2ed-4e2d-a4a6-5e39ae74b3be
+  - m_PromptIndex: 1
+    m_Line: I'll rescue you!
+    m_OutID: 324e3f0c-47e3-41df-82e9-44176706ee67

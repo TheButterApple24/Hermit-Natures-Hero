@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Mayor
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Mayor Punduh
+    m_Line: "A fresh face, finally! I\u2019m so glad you\u2019re here to help!"
+    m_InID: 63d682be-76ab-44f9-b05b-2a33b6ac9179
+    m_OutID: 13b1f44a-e7cb-4310-a3f8-70678d28461f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  - m_SpeakerName: Mayor Punduh
+    m_Line: These cultists have been setting up camps all over our beautiful island.
+    m_InID: a5e17f6d-b19e-4087-a981-dc9850d2c9a0
+    m_OutID: fb5d1f34-2b1e-4ae2-babf-a032dd415a84
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+  - m_SpeakerName: Mayor Punduh
+    m_Line: "How can we expect to get tourists now? Our island\u2019s going to slowly
+      fall off the map."
+    m_InID: d318f077-bf28-41df-8a22-4d8ffee4afe3
+    m_OutID: 9b5644a8-feb5-4ecd-bd88-2ecc98503c8d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Mayor Punduh
+    m_Line: The other locals and myself have posted some decrees on the decree board.
+    m_InID: 86727a20-3794-465b-b8c1-354ca92e1915
+    m_OutID: 2bc6873f-8779-4eba-8694-fb664b500aa7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Mayor Punduh
+    m_Line: There is always something that can be done around here.
+    m_InID: 90d458e9-ad57-4310-ab76-f94d903723dc
+    m_OutID: 3f1aeba5-75fc-40e4-9f68-2b10296357d2
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Mayor Punduh
+    m_Line: "We\u2019re counting on you Pinky, don\u2019t let us down!"
+    m_InID: 6addfb47-cf6f-439d-a195-40500d879732
+    m_OutID: 4cedc12f-667c-4cae-a223-466a9b99db9e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  Connections:
+  - m_InID: a5e17f6d-b19e-4087-a981-dc9850d2c9a0
+    m_OutID: 13b1f44a-e7cb-4310-a3f8-70678d28461f
+  - m_InID: d318f077-bf28-41df-8a22-4d8ffee4afe3
+    m_OutID: fb5d1f34-2b1e-4ae2-babf-a032dd415a84
+  - m_InID: 86727a20-3794-465b-b8c1-354ca92e1915
+    m_OutID: 9b5644a8-feb5-4ecd-bd88-2ecc98503c8d
+  - m_InID: 90d458e9-ad57-4310-ab76-f94d903723dc
+    m_OutID: 2bc6873f-8779-4eba-8694-fb664b500aa7
+  - m_InID: 6addfb47-cf6f-439d-a195-40500d879732
+    m_OutID: 3f1aeba5-75fc-40e4-9f68-2b10296357d2
+  Prompts: []

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Eckel
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Eckel
+    m_Line: What are you doing here?
+    m_InID: 20ac1afd-d148-486b-bfd3-65bab20080fc
+    m_OutID: 63943de8-c3b2-4492-8e46-133b857c8d5a
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Eckel
+    m_Line: "You\u2019re so small and defenceless, where are your parents?"
+    m_InID: 78170592-cb83-4181-996a-b9f640f0a1a4
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Eckel
+    m_Line: "You should head back to Briarvale, you\u2019ll be safe within the walls."
+    m_InID: 7c9ddc0a-ad54-44cb-b00c-522620cc1cc9
+    m_OutID: cb7681bf-21c6-424a-b278-db3fac1734d4
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Eckel
+    m_Line: "Don\u2019t go wandering again, it\u2019s dangerous."
+    m_InID: 2cd385c4-79d7-497e-9939-3deac054e8a5
+    m_OutID: 44cc9035-aec5-4998-a000-18395cefe5a7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 2
+  Connections:
+  - m_InID: 7c9ddc0a-ad54-44cb-b00c-522620cc1cc9
+    m_OutID: 909bedb5-4a95-403f-ba85-665ed937324f
+  - m_InID: 78170592-cb83-4181-996a-b9f640f0a1a4
+    m_OutID: 63943de8-c3b2-4492-8e46-133b857c8d5a
+  - m_InID: 2cd385c4-79d7-497e-9939-3deac054e8a5
+    m_OutID: cb7681bf-21c6-424a-b278-db3fac1734d4
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: I unno
+    m_OutID: 909bedb5-4a95-403f-ba85-665ed937324f

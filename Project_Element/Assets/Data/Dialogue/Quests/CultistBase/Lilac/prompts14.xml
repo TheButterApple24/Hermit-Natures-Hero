@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>a7afda5a-0269-48bd-9e57-c0ee9a604ad1</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>Where did you find him?</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

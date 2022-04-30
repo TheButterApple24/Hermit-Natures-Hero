@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _CultistCamp03
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Dappfloris' love blooms here, join us.
+    m_InID: b2f98d36-a6ff-4f69-a48d-4fa311ddfb38
+    m_OutID: a068fa7f-9e3b-4c74-a1cf-5c112706f7fc
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections: []
+  Prompts: []

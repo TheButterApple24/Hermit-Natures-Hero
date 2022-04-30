@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>6649e3a7-e2ed-4e2d-a4a6-5e39ae74b3be</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>Are you...okay?</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Howard
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Howard the Coward
+    m_Line: "N.. no! I\u2019m not hiding! I\u2019m\u2026"
+    m_InID: 659a0293-8139-4360-9bb5-040f8fa56ba3
+    m_OutID: a9d6b657-3639-45c3-8b53-24d9a84ed388
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Howard the Coward
+    m_Line: "N.. no! I\u2019m not hiding! I\u2019m\u2026"
+    m_InID: 05406320-32b6-48eb-ab41-9c44223b54e0
+    m_OutID: 4a33ab9e-e34d-4476-9428-8ccd533ca0c8
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Howard the Coward
+    m_Line: "\u2026 it\u2019s not like I\u2019m scared or anything\u2026"
+    m_InID: f9965d68-f1ee-4d56-b124-573c5f1720ec
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Howard the Coward
+    m_Line: I can take them, easy!...
+    m_InID: 44e4cb67-0df8-4549-a906-734fb89498d3
+    m_OutID: 7a9f0078-3e20-4179-9abe-1217c57c7f38
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Howard the Coward
+    m_Line: Tomorrow.
+    m_InID: f61a4a7d-6446-4f96-a65a-d75c9ff3a316
+    m_OutID: c0f04404-4c6c-479d-b327-791c98311a62
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  Connections:
+  - m_InID: 05406320-32b6-48eb-ab41-9c44223b54e0
+    m_OutID: a9d6b657-3639-45c3-8b53-24d9a84ed388
+  - m_InID: f9965d68-f1ee-4d56-b124-573c5f1720ec
+    m_OutID: 4a33ab9e-e34d-4476-9428-8ccd533ca0c8
+  - m_InID: 44e4cb67-0df8-4549-a906-734fb89498d3
+    m_OutID: e7423891-203a-464e-901c-8d6ad01ab634
+  - m_InID: 44e4cb67-0df8-4549-a906-734fb89498d3
+    m_OutID: d4f98440-ae86-44e0-ab21-da9af7f09862
+  - m_InID: f61a4a7d-6446-4f96-a65a-d75c9ff3a316
+    m_OutID: 7a9f0078-3e20-4179-9abe-1217c57c7f38
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: 'Mhmm  '
+    m_OutID: e7423891-203a-464e-901c-8d6ad01ab634
+  - m_PromptIndex: 1
+    m_Line: .......
+    m_OutID: d4f98440-ae86-44e0-ab21-da9af7f09862

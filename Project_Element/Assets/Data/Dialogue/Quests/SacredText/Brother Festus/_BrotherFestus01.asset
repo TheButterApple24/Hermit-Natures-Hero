@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _BrotherFestus01
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Brother Festus
+    m_Line: Please my child, you must help me.
+    m_InID: 430ab0c4-1f7a-409c-9d81-a4bfa3aecd27
+    m_OutID: f97160c0-d70a-4267-a177-40c64a7ca0b3
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Brother Festus
+    m_Line: "Brother Solez ran off with our most sacred text. He\u2019s been muttering
+      under his breath about the jumping islands for weeks, and now he\u2019s gone!
+      Him and the text both!"
+    m_InID: ca80f640-e89a-4ade-80f0-273c76779b10
+    m_OutID: 64af3448-0fcb-4a4d-9187-373606a46c82
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Brother Festus
+    m_Line: "It\u2019s dangerous out there for an old fella like me, but you\u2026
+      you look like you can handle yourself."
+    m_InID: 7edd3791-63ee-44a5-834a-32ecb94e893b
+    m_OutID: f83793c1-ea44-4ae3-a97f-e31143472b9d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: "I beg of you, recover our text. We\u2019re lost without it."
+    m_InID: 38740161-e60e-46ba-91e1-efb69235804a
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Brother Festus
+    m_Line: Thank the Three!
+    m_InID: 76efe910-6855-4c39-9a77-499f2a6f7edb
+    m_OutID: 34c11526-6618-4c6f-b2af-9c38a04af45e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: Oh Please!!
+    m_InID: be9f7c56-7d9c-4498-a41d-81867968f355
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 2
+    EmotionIndex: 2
+  - m_SpeakerName: Brother Festus
+    m_Line: Ahem, and thank you as well.
+    m_InID: 63b8d041-33fb-42dc-93fd-04e4202bcbc7
+    m_OutID: 37030a64-9a1d-429f-b21c-b489a246fe08
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: Once you retrieve the text, DO NOT read it.
+    m_InID: 40ffcd5c-bf5d-4793-9e80-d890694197dd
+    m_OutID: b94b2bd8-4ac4-426f-b508-c5e3183d3c49
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Brother Festus
+    m_Line: Praise to the Trio.
+    m_InID: 5be59448-947e-4335-8ab2-0aaaa83e609f
+    m_OutID: bfaea2a2-ab4a-4f0f-a2ed-27dff2d2b338
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  Connections:
+  - m_InID: ca80f640-e89a-4ade-80f0-273c76779b10
+    m_OutID: f97160c0-d70a-4267-a177-40c64a7ca0b3
+  - m_InID: 7edd3791-63ee-44a5-834a-32ecb94e893b
+    m_OutID: 64af3448-0fcb-4a4d-9187-373606a46c82
+  - m_InID: 38740161-e60e-46ba-91e1-efb69235804a
+    m_OutID: f83793c1-ea44-4ae3-a97f-e31143472b9d
+  - m_InID: 76efe910-6855-4c39-9a77-499f2a6f7edb
+    m_OutID: faf8bfb2-1909-4512-add3-bae8b5a70208
+  - m_InID: be9f7c56-7d9c-4498-a41d-81867968f355
+    m_OutID: 7d8fcaac-c077-4592-817f-75f05b713d8a
+  - m_InID: 76efe910-6855-4c39-9a77-499f2a6f7edb
+    m_OutID: 1ef37650-9a02-4ff3-89f8-fe9af2833fab
+  - m_InID: 63b8d041-33fb-42dc-93fd-04e4202bcbc7
+    m_OutID: 34c11526-6618-4c6f-b2af-9c38a04af45e
+  - m_InID: 40ffcd5c-bf5d-4793-9e80-d890694197dd
+    m_OutID: 37030a64-9a1d-429f-b21c-b489a246fe08
+  - m_InID: 5be59448-947e-4335-8ab2-0aaaa83e609f
+    m_OutID: b94b2bd8-4ac4-426f-b508-c5e3183d3c49
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: 'Uh!   '
+    m_OutID: faf8bfb2-1909-4512-add3-bae8b5a70208
+  - m_PromptIndex: 1
+    m_Line: Nuh!
+    m_OutID: 7d8fcaac-c077-4592-817f-75f05b713d8a
+  - m_PromptIndex: 2
+    m_Line: ...Yuhh.
+    m_OutID: 1ef37650-9a02-4ff3-89f8-fe9af2833fab

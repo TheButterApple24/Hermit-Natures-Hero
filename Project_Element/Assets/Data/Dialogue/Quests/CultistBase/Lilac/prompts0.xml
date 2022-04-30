@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>cb9a3bc2-b122-4e4a-af3c-0130a7a9db30</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>I'm the Hermit!</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

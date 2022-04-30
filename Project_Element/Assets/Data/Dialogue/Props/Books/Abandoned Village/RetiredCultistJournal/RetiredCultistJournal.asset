@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: RetiredCultistJournal
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Journal
+    m_Line: There's nothing I want more than to leave this cursed island.
+    m_InID: 73145db0-f159-42c1-8192-6742f5806838
+    m_OutID: 94ec726c-047f-458c-8dd5-98944bf292f3
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Journal
+    m_Line: To just sail away from my troubles and to a new land.
+    m_InID: d5085e46-c18f-4be6-814e-c2d69a8808bf
+    m_OutID: 650f2c87-d8c9-45fd-90a6-3d6fd2a25a30
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Journal
+    m_Line: It's never that easy though. I'm tethered to this place, whether I like
+      it or not.
+    m_InID: 4b50f934-e2be-48ca-9eda-3d77c4650c8f
+    m_OutID: 63bf79ec-693d-4801-885e-c7790b8bd8d8
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Journal
+    m_Line: My anger, my guilt, it's all keeping me here.
+    m_InID: 9b4b0fbe-2dd2-44bd-988e-fdcd69f2d695
+    m_OutID: b3a8515a-c354-473f-a894-f3d02a23a746
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Journal
+    m_Line: I feel like I'd be abandoning her if I were to run away.
+    m_InID: a5b5dcbc-ed2c-4287-8d5d-7d5b2723508e
+    m_OutID: a13ee2f1-ba68-4265-b2c4-ecd6968716ba
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Journal
+    m_Line: Cults, Gods, Elements... it's all a joke.
+    m_InID: 4287a09b-8995-4741-87eb-ae54a7b1f563
+    m_OutID: c9600131-5489-4fad-96b3-76c66aa55e61
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Journal
+    m_Line: Anybody who's roped into that mess is a fool.
+    m_InID: 8639f44c-5df9-4454-bcbd-220e4d095311
+    m_OutID: 051926e9-da79-497e-890f-dfc81b9c9154
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: d5085e46-c18f-4be6-814e-c2d69a8808bf
+    m_OutID: 94ec726c-047f-458c-8dd5-98944bf292f3
+  - m_InID: 4b50f934-e2be-48ca-9eda-3d77c4650c8f
+    m_OutID: 650f2c87-d8c9-45fd-90a6-3d6fd2a25a30
+  - m_InID: 9b4b0fbe-2dd2-44bd-988e-fdcd69f2d695
+    m_OutID: 63bf79ec-693d-4801-885e-c7790b8bd8d8
+  - m_InID: a5b5dcbc-ed2c-4287-8d5d-7d5b2723508e
+    m_OutID: b3a8515a-c354-473f-a894-f3d02a23a746
+  - m_InID: 4287a09b-8995-4741-87eb-ae54a7b1f563
+    m_OutID: a13ee2f1-ba68-4265-b2c4-ecd6968716ba
+  - m_InID: 8639f44c-5df9-4454-bcbd-220e4d095311
+    m_OutID: c9600131-5489-4fad-96b3-76c66aa55e61
+  Prompts: []

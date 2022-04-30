@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Peggetto01
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Peggetto
+    m_Line: "Help! My family! They\u2019ve been kidnapped!"
+    m_InID: b7f6a1d1-17d2-448f-a51e-b18c6c4d0fa2
+    m_OutID: c1bf608f-fdbe-4f82-8186-d88728a258c0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: "Can you find my children? My heart bleeds knowing they\u2019re out there,
+      cold and afraid."
+    m_InID: f3af4598-d429-457f-a1c9-588e701a098c
+    m_OutID: e0ca8b35-9e50-4b69-aff6-eead35e38ad3
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: Those awful cultists snuck in and swiped them from their tiny beds.
+    m_InID: 250b8555-062d-4fe5-b18f-1738f386320c
+    m_OutID: accea937-92ba-41eb-a274-9bcf02fa4f7f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: "Word around town is they\u2019ve been taken to camps all along the island."
+    m_InID: 4e0ff31b-cb4c-42f3-86a4-fea40e724395
+    m_OutID: 7a4938bc-974b-4a99-beac-9f897fd388c1
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: "I would have gone myself, but the rest of my children here would worry,
+      I can\u2019t do that to them."
+    m_InID: 992dceec-20fd-4dba-9698-a3ff3b36a14a
+    m_OutID: 73de0377-2a7f-44b3-99b2-187383ec5f81
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: Will you help us?
+    m_InID: b4aa0ad4-554b-4e18-b78d-3f8859ca4f42
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: Here are the details. Thank you thank you!
+    m_InID: 66ca1550-f169-468f-a7cc-f22697f875a9
+    m_OutID: aaca8bfd-6c2b-4b2f-8507-267063c37e02
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: Pleeeeease?
+    m_InID: 5cee6d26-5791-40ae-b875-1d485b4782d2
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 2
+    EmotionIndex: 3
+    PitchIndex: 1
+  Connections:
+  - m_InID: f3af4598-d429-457f-a1c9-588e701a098c
+    m_OutID: c1bf608f-fdbe-4f82-8186-d88728a258c0
+  - m_InID: 250b8555-062d-4fe5-b18f-1738f386320c
+    m_OutID: e0ca8b35-9e50-4b69-aff6-eead35e38ad3
+  - m_InID: 4e0ff31b-cb4c-42f3-86a4-fea40e724395
+    m_OutID: accea937-92ba-41eb-a274-9bcf02fa4f7f
+  - m_InID: 992dceec-20fd-4dba-9698-a3ff3b36a14a
+    m_OutID: 7a4938bc-974b-4a99-beac-9f897fd388c1
+  - m_InID: b4aa0ad4-554b-4e18-b78d-3f8859ca4f42
+    m_OutID: 73de0377-2a7f-44b3-99b2-187383ec5f81
+  - m_InID: 66ca1550-f169-468f-a7cc-f22697f875a9
+    m_OutID: 9639f622-3467-4f05-8bc0-8fba7f2dc64b
+  - m_InID: 5cee6d26-5791-40ae-b875-1d485b4782d2
+    m_OutID: 6e779707-a223-4b09-bfc0-7dd3304147ef
+  - m_InID: 66ca1550-f169-468f-a7cc-f22697f875a9
+    m_OutID: 40a304b4-67db-4ea8-aad9-da69db1bf6df
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Yuh huh!
+    m_OutID: 9639f622-3467-4f05-8bc0-8fba7f2dc64b
+  - m_PromptIndex: 1
+    m_Line: .....
+    m_OutID: 6e779707-a223-4b09-bfc0-7dd3304147ef
+  - m_PromptIndex: 2
+    m_Line: Uhkay.
+    m_OutID: 40a304b4-67db-4ea8-aad9-da69db1bf6df

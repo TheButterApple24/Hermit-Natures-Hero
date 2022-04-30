@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: RockFormation
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Sign
+    m_Line: This rock formation is a memento to the 3 pilgrims who travelled across
+      the archipelago in search of enlightenment.
+    m_InID: af16d16a-a0ea-49f5-a76c-0dc46d7f1c0e
+    m_OutID: 155fce3c-c33a-4b00-bd24-abbd2a3f5467
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: Sign
+    m_Line: Each person was allegedly a prophet to the three gods, representing their
+      wishes.
+    m_InID: 91d01bb4-74cc-43d4-bb4d-e818bd4f88d2
+    m_OutID: e7142b96-47ab-4c44-ae7b-0a9ac7d7eb3b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: Sign
+    m_Line: The world did not know for sure whether they were truthful, but nevertheless
+      they inspired and guided the people to an even more peaceful time.
+    m_InID: e936b055-b66f-460c-97f9-a877dbf7a9cc
+    m_OutID: d6caa7b6-c024-45a7-aaad-bb675095aeaa
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  Connections:
+  - m_InID: 91d01bb4-74cc-43d4-bb4d-e818bd4f88d2
+    m_OutID: 155fce3c-c33a-4b00-bd24-abbd2a3f5467
+  - m_InID: e936b055-b66f-460c-97f9-a877dbf7a9cc
+    m_OutID: e7142b96-47ab-4c44-ae7b-0a9ac7d7eb3b
+  Prompts: []

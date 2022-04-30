@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _PegTEST
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Peggetto
+    m_Line: Hold this sword, kid. Or else.
+    m_InID: 36d0350f-0891-48e7-9ca5-80e73d7092b9
+    m_OutID: e91e16a7-e337-4c13-a401-21c137379d2e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  Connections: []
+  Prompts: []

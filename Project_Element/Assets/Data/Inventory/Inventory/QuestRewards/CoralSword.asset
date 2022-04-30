@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d384aa08fe7b74fa04bb074eb55d4f, type: 3}
+  m_Name: CoralSword
+  m_EditorClassIdentifier: 
+  ItemID: 24
+  ItemName: CoralSword
+  ItemTitle: Coral Sword
+  ItemDescription: A brittle stalk of coral, vaguely resembling a sword. Equally
+    as sharp, however.
+  ItemType: 0
+  ItemIcon: {fileID: 21300000, guid: 70a27f8ea9afd424093e33d99fc0a3f2, type: 3}
+  ItemPrefab: {fileID: 2885295581572128640, guid: 6a7fae9bede54dd47a91464141ac5cf5, type: 3}

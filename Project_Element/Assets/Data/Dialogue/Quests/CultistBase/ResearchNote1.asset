@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: ResearchNote1
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: 'RESEARCH NOTE #1:'
+    m_InID: c6493932-306c-4f47-942d-af819accd0cd
+    m_OutID: 3b3cf0fe-bcb2-4578-a718-c0a0cd8d7a20
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: By means of trade with a nearby camp, we have recently come into possession
+    m_InID: 1b23e39c-989c-43cb-806e-0052280f606d
+    m_OutID: 02b1e473-404f-4956-9e7c-76b7999e6774
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: of the captured soul of a warrior from centuries ago.
+    m_InID: 72130ec5-8b40-4937-b372-c39d6e78ab55
+    m_OutID: d0310c10-18e6-4ed0-8e08-d06592e0eb04
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: "Even if my fool assistant Reggie doesn\u2019t see it, I believe that
+      this fearsome spirit is the soul"
+    m_InID: 0f1362ae-5dab-4700-91d9-516d3ff8dd18
+    m_OutID: 026366df-19b8-45cb-b4ed-9858480494d0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: "we\u2019ve been looking for, the one that will allow us to complete
+      our soul-binding research."
+    m_InID: f75f6824-048f-425f-875e-ccc6543ef4ff
+    m_OutID: b5a2fd66-73f0-4493-84c1-3753a265d43c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: "The other elemental cults won\u2019t stand a chance once PROJECT POLTERGEIST
+      is done!"
+    m_InID: bc5c0fb7-6306-4acd-9763-081db3e12c78
+    m_OutID: 815b3136-393f-448c-8d0d-dd52363c52da
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 1b23e39c-989c-43cb-806e-0052280f606d
+    m_OutID: 3b3cf0fe-bcb2-4578-a718-c0a0cd8d7a20
+  - m_InID: 72130ec5-8b40-4937-b372-c39d6e78ab55
+    m_OutID: 02b1e473-404f-4956-9e7c-76b7999e6774
+  - m_InID: 0f1362ae-5dab-4700-91d9-516d3ff8dd18
+    m_OutID: d0310c10-18e6-4ed0-8e08-d06592e0eb04
+  - m_InID: f75f6824-048f-425f-875e-ccc6543ef4ff
+    m_OutID: 026366df-19b8-45cb-b4ed-9858480494d0
+  - m_InID: bc5c0fb7-6306-4acd-9763-081db3e12c78
+    m_OutID: b5a2fd66-73f0-4493-84c1-3753a265d43c
+  Prompts: []

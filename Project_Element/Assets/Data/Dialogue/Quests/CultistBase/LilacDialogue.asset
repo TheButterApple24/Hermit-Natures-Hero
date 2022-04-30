@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: LilacDialogue
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Crazed Villager
+    m_Line: Prepare to die!... Wait, you're not a cultist!
+    m_InID: 4cadc404-429f-4f51-8f3a-ace97972a540
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Crazed Villager
+    m_Line: Well, Hermit, help me eliminate these cultists one and for all!
+    m_InID: eb94a226-ddef-4389-94cc-b9a1c7ebfb7f
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 1
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Oh, yeah. I'm Lilac, and I'm kind of on a quest for revenge.
+    m_InID: 85bbd8d4-c39c-4871-aa78-18cc9d928848
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 3
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Revenge! Do you know anyone whose life is fully untouched by the cultists?
+    m_InID: 7eaf4ca1-7c77-4b2d-afed-4666e65d15c4
+    m_OutID: 26236c64-25f4-4924-83af-3df25f2ef456
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: No! Of course not! They destroy everything without consequence!
+    m_InID: f1b0c78d-e572-4bbc-b423-18d8f4d6dfc9
+    m_OutID: e740b345-0fe0-4031-a37a-986fb013ba7e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: That's why Yeshurun and I are making sure they'll never hurt anyone ever
+      again!
+    m_InID: d565d7a9-05f3-48bd-b35b-d6e728106ad8
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 4
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: My friend Yeshurun! Can you not hear him in the sword?
+    m_InID: a8ff458e-523f-4e19-bb82-28663edc48d8
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 5
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: No? Guess you're like everyone else then. Nobody in the city could hear
+      him either.
+    m_InID: 4a1e7fc2-cf8b-4eb6-82a3-42cf4aabdced
+    m_OutID: 71d16b41-ed1e-4f22-8637-e14a54417a9f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Well, either way. If you're not going to help...
+    m_InID: b980a7b1-3522-434b-8c98-d42892f910b1
+    m_OutID: ad6061d7-3c01-4c72-85e4-daa76c64e19d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Get out of my way.
+    m_InID: 33ad6611-5162-475b-99bb-c4b1c9dd9b06
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 6
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Then, Hermit, I guess you're my enemy too.
+    m_InID: e4fecfa0-5188-4045-896d-ada27716fb19
+    m_OutID: 3c04a25b-8869-41a4-8475-c70369dd5f0b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: No! Last time I tried talking, I... They all...
+    m_InID: ca24ac5b-2f9c-40fb-a467-462fd8bb60b5
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 8
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: It was my family. We used to live in a quiet village, then the cultists...
+    m_InID: 7e055673-7ed3-48a4-ab93-0bda4b0ea9b2
+    m_OutID: 4c5bcc05-338c-43c3-8ef9-376dee056c6e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: They killed my whole family. I was powerless to stop them.
+    m_InID: d42bdc84-fee5-4c70-8b20-3da195c16cfb
+    m_OutID: 4b244d9c-398c-40d9-8f93-a3b8b66501db
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: But not anymore. Not with Yeshurun's power!
+    m_InID: 4dee09ca-fc59-4223-9cca-97b13b66deac
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 9
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: I... I can't remember. I was in the walled city and then I was at this
+      camp.
+    m_InID: f4c7b915-ae13-47f6-b027-c9a05300d4c4
+    m_OutID: 3b4347ac-0067-47ac-9d92-6cc4a1bd81f1
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Why can't I remember, Yeshurun? What's going on?
+    m_InID: 55e1c807-b590-4d65-b691-f42f12331c80
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 10
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Yeah. It does.
+    m_InID: e199ac60-2bdc-4347-ab47-70e0b62bc45c
+    m_OutID: c8cfed8c-a959-439f-8069-98ffe557789e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Hermit, I think I've made a terrible, terrible mistake.
+    m_InID: fe803690-9f01-4e36-ac28-8bc8bc2f775b
+    m_OutID: 9f92c01e-7b35-461c-8e4e-cfd85fd36739
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Lilac
+    m_Line: Please, take Yeshurun away from me. I don't trust myself anymore.
+    m_InID: f584520b-cd67-44e8-b5c1-7c3374cd4e6d
+    m_OutID: 4ec26134-0e17-4609-87c5-49b14033a963
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  Connections:
+  - m_InID: eb94a226-ddef-4389-94cc-b9a1c7ebfb7f
+    m_OutID: cb9a3bc2-b122-4e4a-af3c-0130a7a9db30
+  - m_InID: 85bbd8d4-c39c-4871-aa78-18cc9d928848
+    m_OutID: 0c03a3ec-5726-471a-b35e-672f95f5ca20
+  - m_InID: 85bbd8d4-c39c-4871-aa78-18cc9d928848
+    m_OutID: a50687f5-a9b7-4c7b-8f99-682d6220d29f
+  - m_InID: 7eaf4ca1-7c77-4b2d-afed-4666e65d15c4
+    m_OutID: 04ee2b3e-be4c-43b3-8324-e0eda2c9635e
+  - m_InID: f1b0c78d-e572-4bbc-b423-18d8f4d6dfc9
+    m_OutID: 26236c64-25f4-4924-83af-3df25f2ef456
+  - m_InID: d565d7a9-05f3-48bd-b35b-d6e728106ad8
+    m_OutID: e740b345-0fe0-4031-a37a-986fb013ba7e
+  - m_InID: a8ff458e-523f-4e19-bb82-28663edc48d8
+    m_OutID: 0b8d31b7-0d41-4e8a-85f2-6baa167c4552
+  - m_InID: 4a1e7fc2-cf8b-4eb6-82a3-42cf4aabdced
+    m_OutID: ec770e5f-c775-4dc6-901d-eb7600a3ec67
+  - m_InID: b980a7b1-3522-434b-8c98-d42892f910b1
+    m_OutID: 71d16b41-ed1e-4f22-8637-e14a54417a9f
+  - m_InID: 33ad6611-5162-475b-99bb-c4b1c9dd9b06
+    m_OutID: ad6061d7-3c01-4c72-85e4-daa76c64e19d
+  - m_InID: e4fecfa0-5188-4045-896d-ada27716fb19
+    m_OutID: 49b4cf87-9051-49f3-bf2e-dfff506daf8a
+  - m_InID: ca24ac5b-2f9c-40fb-a467-462fd8bb60b5
+    m_OutID: 5d70983f-f4c9-4b2d-83ce-7c5af88af687
+  - m_InID: 7e055673-7ed3-48a4-ab93-0bda4b0ea9b2
+    m_OutID: 09608d30-b84b-48cb-bc0d-927240cc44a2
+  - m_InID: d42bdc84-fee5-4c70-8b20-3da195c16cfb
+    m_OutID: 4c5bcc05-338c-43c3-8ef9-376dee056c6e
+  - m_InID: 4dee09ca-fc59-4223-9cca-97b13b66deac
+    m_OutID: 4b244d9c-398c-40d9-8f93-a3b8b66501db
+  - m_InID: f4c7b915-ae13-47f6-b027-c9a05300d4c4
+    m_OutID: a7afda5a-0269-48bd-9e57-c0ee9a604ad1
+  - m_InID: 55e1c807-b590-4d65-b691-f42f12331c80
+    m_OutID: 3b4347ac-0067-47ac-9d92-6cc4a1bd81f1
+  - m_InID: e199ac60-2bdc-4347-ab47-70e0b62bc45c
+    m_OutID: 208d69c0-ed0e-4196-b572-9b61ebd689d7
+  - m_InID: fe803690-9f01-4e36-ac28-8bc8bc2f775b
+    m_OutID: c8cfed8c-a959-439f-8069-98ffe557789e
+  - m_InID: f584520b-cd67-44e8-b5c1-7c3374cd4e6d
+    m_OutID: 9f92c01e-7b35-461c-8e4e-cfd85fd36739
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: I'm the Hermit!
+    m_OutID: cb9a3bc2-b122-4e4a-af3c-0130a7a9db30
+  - m_PromptIndex: 1
+    m_Line: Why?
+    m_OutID: 0c03a3ec-5726-471a-b35e-672f95f5ca20
+  - m_PromptIndex: 2
+    m_Line: Who are you?
+    m_OutID: a50687f5-a9b7-4c7b-8f99-682d6220d29f
+  - m_PromptIndex: 3
+    m_Line: Revenge?
+    m_OutID: 04ee2b3e-be4c-43b3-8324-e0eda2c9635e
+  - m_PromptIndex: 4
+    m_Line: Yeshu-who?
+    m_OutID: 0b8d31b7-0d41-4e8a-85f2-6baa167c4552
+  - m_PromptIndex: 5
+    m_Line: ...
+    m_OutID: ec770e5f-c775-4dc6-901d-eb7600a3ec67
+  - m_PromptIndex: 6
+    m_Line: I can't do that.
+    m_OutID: 49b4cf87-9051-49f3-bf2e-dfff506daf8a
+  - m_PromptIndex: 7
+    m_Line: Can we talk about this?
+    m_OutID: 5d70983f-f4c9-4b2d-83ce-7c5af88af687
+  - m_PromptIndex: 8
+    m_Line: What happened?
+    m_OutID: 09608d30-b84b-48cb-bc0d-927240cc44a2
+  - m_PromptIndex: 9
+    m_Line: Where did you find him?
+    m_OutID: a7afda5a-0269-48bd-9e57-c0ee9a604ad1
+  - m_PromptIndex: 10
+    m_Line: Doesn't this seem odd?
+    m_OutID: 208d69c0-ed0e-4196-b572-9b61ebd689d7

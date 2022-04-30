@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d384aa08fe7b74fa04bb074eb55d4f, type: 3}
+  m_Name: Moonpalm
+  m_EditorClassIdentifier: 
+  ItemID: 15
+  ItemName: Moonpalm
+  ItemTitle: Moonpalm
+  ItemDescription: Sunpalm's cool-coloured counterpart. Moonpalm prefers to grow
+    in the shade and at night, away from the sun. It is equally as versatile as Sunpalm
+    and is frequently used in strengthening tonics. Mix with Golden Sweetberry to
+    make a Potion of Vigor, or with Knightsbane to make a Potion of Protection.
+  ItemType: 3
+  ItemIcon: {fileID: 21300000, guid: 19f6fe4cc155e924c8dd2f17a88c3af9, type: 3}
+  ItemPrefab: {fileID: 2563730984636417770, guid: ff184ebd53a25264b902f42339f6ff4a, type: 3}

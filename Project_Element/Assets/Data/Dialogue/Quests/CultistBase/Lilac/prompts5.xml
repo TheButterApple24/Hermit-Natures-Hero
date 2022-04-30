@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>0b8d31b7-0d41-4e8a-85f2-6baa167c4552</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>Yeshu-who?</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>aac81712-f8a7-4207-bd59-0434055a98c9</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>Yeah!</m_PromptText>
+  </DialogueEditorPrompt>
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>b147ddc7-8326-4ec6-9b23-2cca9e8102ea</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>1</m_PromptIndex>
+    <m_PromptText>I'm here to fight.</m_PromptText>
+  </DialogueEditorPrompt>
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>e71c8656-95e1-409c-a5b6-df84c1b8b11a</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>2</m_PromptIndex>
+    <m_PromptText>I'll think about it.</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

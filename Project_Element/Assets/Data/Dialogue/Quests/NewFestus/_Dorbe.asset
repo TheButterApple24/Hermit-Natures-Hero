@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Dorbe
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Brother Dorbe
+    m_Line: The tome tricked me. It rotted my mind and made me do the unthinkable.
+    m_InID: 843e0b3c-987f-4245-8d55-ff87dded11ba
+    m_OutID: 5fb5d158-76d5-4885-b54f-4276ded74714
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 1
+  - m_SpeakerName: Brother Dorbe
+    m_Line: Festus told me not to read it, but I never listened.
+    m_InID: 9f27c84b-2125-4621-bcd5-16e180e5e87b
+    m_OutID: 7869f41f-40df-4040-9bad-eef9e87da191
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 1
+  - m_SpeakerName: Brother Dorbe
+    m_Line: "Bring the tome back to him and tell him I ran away. I\u2019m too embarrassed
+      for him to know the truth."
+    m_InID: 1ca57a27-8e8a-46ff-9195-f016961057ef
+    m_OutID: a6d85ab3-34f4-477a-90de-f6225b0b9f01
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 1
+  Connections:
+  - m_InID: 9f27c84b-2125-4621-bcd5-16e180e5e87b
+    m_OutID: 5fb5d158-76d5-4885-b54f-4276ded74714
+  - m_InID: 1ca57a27-8e8a-46ff-9195-f016961057ef
+    m_OutID: 7869f41f-40df-4040-9bad-eef9e87da191
+  Prompts: []

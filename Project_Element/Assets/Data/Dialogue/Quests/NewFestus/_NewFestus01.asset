@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _NewFestus01
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Brother Festus
+    m_Line: "My baby brother, he\u2019s stolen the sacred tome!"
+    m_InID: 46e33f51-b152-46ea-8cac-4a9781a51909
+    m_OutID: e5c27131-a9ef-4bb9-ade1-903c7ac837e7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: You must help me child!
+    m_InID: 2c3ec2b8-e578-48fa-9bdd-4fd4714b184f
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: Trio bless you!
+    m_InID: 9d2071e3-66c2-48ef-894b-d84efb778319
+    m_OutID: 2583ef7e-fcd2-479e-9f98-dfb65889935e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: It is of the upmost importance, please!
+    m_InID: 1c13e4c3-d21e-4a2a-8bba-88990f137553
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 2
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: He's been muttering about the Jumping Islands for weeks, there must be
+      something there.
+    m_InID: fbd69b18-f276-4041-a967-078b8d8cb02a
+    m_OutID: 1ef51092-691d-4f33-bb6f-47b9bafbc9a0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  Connections:
+  - m_InID: 2c3ec2b8-e578-48fa-9bdd-4fd4714b184f
+    m_OutID: e5c27131-a9ef-4bb9-ade1-903c7ac837e7
+  - m_InID: 9d2071e3-66c2-48ef-894b-d84efb778319
+    m_OutID: b1c10005-a914-4c90-a6e9-f55aa9c41ecf
+  - m_InID: 1c13e4c3-d21e-4a2a-8bba-88990f137553
+    m_OutID: 6b9c9db6-232a-479d-8828-6d4581c8dc1c
+  - m_InID: 9d2071e3-66c2-48ef-894b-d84efb778319
+    m_OutID: d5f5b4f2-d6b0-4ff8-83ab-3563d4540613
+  - m_InID: fbd69b18-f276-4041-a967-078b8d8cb02a
+    m_OutID: 2583ef7e-fcd2-479e-9f98-dfb65889935e
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Yeuh
+    m_OutID: b1c10005-a914-4c90-a6e9-f55aa9c41ecf
+  - m_PromptIndex: 1
+    m_Line: Nup.
+    m_OutID: 6b9c9db6-232a-479d-8828-6d4581c8dc1c
+  - m_PromptIndex: 2
+    m_Line: Okee
+    m_OutID: d5f5b4f2-d6b0-4ff8-83ab-3563d4540613

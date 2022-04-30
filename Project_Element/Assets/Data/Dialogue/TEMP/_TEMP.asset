@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _TEMP
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Jeffrey
+    m_Line: Hi!
+    m_InID: f2387922-dc8c-482d-a3c6-1677e219a0e5
+    m_OutID: 0106f2ba-65fe-456e-8531-b0fa3e1dfda6
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  Connections: []
+  Prompts: []

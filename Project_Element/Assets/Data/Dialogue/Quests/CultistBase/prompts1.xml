@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>28ba896a-4c47-4b2b-8959-16a9dc069001</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>No!</m_PromptText>
+  </DialogueEditorPrompt>
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>ebd949f7-8314-48b9-af14-40adcedc2128</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>1</m_PromptIndex>
+    <m_PromptText>I'm listening...</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

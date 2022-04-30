@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _PlantCultistJournal
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Word around camp is Mansley caught another Fruiti this morning.
+    m_InID: dc66126f-f47e-4a3c-b11e-b833629596c2
+    m_OutID: 8069ded3-d66c-4e80-afcf-df51bbfb5927
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: "The last one was delicious, but I don\u2019t know how long we can keep
+      it up."
+    m_InID: 9aa31cc8-fdd7-4d0a-ba4f-d7930439d408
+    m_OutID: caab7776-c3e1-422d-bca2-7b897cd5cb80
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: "Dappfloris wouldn\u2019t approve of us eating His children, I\u2019d
+      bet."
+    m_InID: 10500581-6c7e-4e51-b76b-53db7c035708
+    m_OutID: 1ecfb73e-c3e4-445e-a91b-f2a8fb67e89c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 9aa31cc8-fdd7-4d0a-ba4f-d7930439d408
+    m_OutID: 8069ded3-d66c-4e80-afcf-df51bbfb5927
+  - m_InID: 10500581-6c7e-4e51-b76b-53db7c035708
+    m_OutID: caab7776-c3e1-422d-bca2-7b897cd5cb80
+  Prompts: []

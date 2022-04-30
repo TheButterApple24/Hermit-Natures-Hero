@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _BookoftheTrio
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: You feel a chill run down your spine as you pick up the book.
+    m_InID: 116b5506-313e-48bd-8f22-2afcd98eaced
+    m_OutID: fb1183d4-c747-4cb8-b51b-108095d71346
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: The book speaks to you from inside your mind.
+    m_InID: 88e3c4bc-17d6-47f1-8499-de9f06e68611
+    m_OutID: 8fe2a40f-5d8a-4d6e-aed6-3591cc37db87
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: Book of the Trio
+    m_Line: OPEN ME!
+    m_InID: 470e0900-08ef-43e0-874d-2642efb76466
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 1
+  - m_SpeakerName: 
+    m_Line: You toss the book back where you found it.
+    m_InID: ad6d49f1-c47c-4658-bf34-250beddf56c2
+    m_OutID: d06daaa7-2fc0-4102-a18c-fc208367d0f2
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  Connections:
+  - m_InID: 88e3c4bc-17d6-47f1-8499-de9f06e68611
+    m_OutID: fb1183d4-c747-4cb8-b51b-108095d71346
+  - m_InID: 470e0900-08ef-43e0-874d-2642efb76466
+    m_OutID: 8fe2a40f-5d8a-4d6e-aed6-3591cc37db87
+  - m_InID: ad6d49f1-c47c-4658-bf34-250beddf56c2
+    m_OutID: 8c634e9b-9da7-4e8d-966d-68d92c496f96
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: AHHHHH!!
+    m_OutID: 8c634e9b-9da7-4e8d-966d-68d92c496f96

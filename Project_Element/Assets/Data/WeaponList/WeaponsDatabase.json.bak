@@ -1,0 +1,337 @@
+
+{ "m_ItemStacks" :
+[
+{
+"id" : 0,
+"name" : "SwordBasic",
+"title" : "Basic Sword",
+"description" : "Sturdy and reliable. A trust-worthy companion. You can never go wrong with this blade.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 1,
+"name" : "SwordLight",
+"title" : "Dueling Sword",
+"description" : "Fast and agile. This light blade was forged to pierce even the strongest of foes.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 2,
+"name" : "SwordHeavy",
+"title" : "Heavy Sword",
+"description" : "Big and imposing. Its weight really helps it pack in a real punch.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 3,
+"name" : "ArmorNormal",
+"title" : "Hermit Armor",
+"description" : "Average and reliable. Crafted by hand by the Hermit themselves. (Increases Friendship Bond with pets by 5%)",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 4,
+"name" : "ArmorLight",
+"title" : "Light Armor",
+"description" : "Delicate but nimble. This light armor was conceived for swifter movement and agility. Increases the Hermit's base Speed and Dash Speed by 5%",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 5,
+"name" : "ArmorHeavy",
+"title" : "Heavy Armor",
+"description" : "Extremely durable. Made from the finest material and craftsmanship to resist damage from incoming attacks. Decreases the Hermit's base Speed and Dash Speed by 5%",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 6,
+"name" : "PotionHealth",
+"title" : "Potion of Health",
+"description" : "Heals 20% of the Hermit's Max HP",
+"stackable" : true,
+"craftable" : false
+},
+
+{
+"id" : 7,
+"name" : "PotionAttack",
+"title" : "Potion of Might",
+"description" : "Increases the Hermit's Attack Stat by 20%.",
+"stackable" : true,
+"craftable" : false
+},
+
+{
+"id" : 8,
+"name" : "PotionDefense",
+"title" : "Potion of Protection",
+"description" : "Increases the Hermit's Defense Stat by 20%.",
+"stackable" : true,
+"craftable" : false
+},
+
+{
+"id" : 9,
+"name" : "PotionStamina",
+"title" : "Potion of Vigor",
+"description" : "Increases the Hermit's Stamina Regeneration by 30%.",
+"stackable" : true,
+"craftable" : false
+},
+
+{
+"id" : 10,
+"name" : "PotionPoison",
+"title" : "Potion of Corrosion",
+"description" : "Imbues the Hermit's Weapon with a Poisonous substance, causing it to inflict lasting damage on foes. This effect will be active for the following 3 successful attacks on any Enemy. Deals 5 damage every 2 seconds for the next 6 seconds. This effect can stack.",
+"stackable" : true,
+"craftable" : false
+},
+
+{
+"id": 11,
+"name": "Nurseblossom",
+"title": "Nurseblossom",
+"description": "A deep red flower that�s known for its healing properties. Gives off a calming aroma that�s popular in incense. A common plant that�s found in most areas on the islands. Mix with Sunpalm to make a Potion of Healing.",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id": 12,
+"name": "Sunpalm",
+"title": "Sunpalm",
+"description": "A highly versatile plant that thrives in sunlight. Has strong restorative qualities and is a popular ingredient with apothecaries. Mix with Nurseblossom to make a Potion of Healing, or Bandit�s Grace to make a Potion of Vigor.",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id": 13,
+"name": "Bandit's Grace",
+"title": "BanditsGrace",
+"description": "A highly versatile plant that thrives in sunlight. Has strong restorative qualities and is a popular ingredient with apothecaries. Mix with Nurseblossom to make a Potion of Healing, or Bandit�s Grace to make a Potion of Vigor.",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id": 14,
+"name": "Golden Sweetberry",
+"title": "GoldenSweetberry",
+"description": "A tall, winding plant that grows sweet golden berries. A common delicacy, Golden Sweetberries are filled with nutrients that enhance growth and strength. Mix with Moonpalm to make a Potion of Might.",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id": 15,
+"name": "Moonpalm",
+"title": "Moonpalm",
+"description": "Sunpalm�s cool-coloured counterpart. Moonpalm prefers to grow in the shade and at night, away from the sun. It is equally as versatile as Sunpalm and is frequently used in strengthening tonics. Mix with Golden Sweetberry to make a Potion of Vigor, or with Knightsbane to make a Potion of Protection",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id": 16,
+"name": "Knightsbane",
+"title": "Knightsbane",
+"description": "A deep blue flower similar in shape to Bandit�s Grace. Knightsbane is a hardy plant that can survive in even the harshest climates. The flowers are said to strengthen your immune system. Mix with Moonpalm to make a Potion of Protection",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id": 17,
+"name": "Poisonwort",
+"title": "Poisonwort",
+"description": "A bulbous, multicoloured plant that gives off an unpleasant odour to disgust any hungry herbivore. Grows in wet or swampy areas. Mix with Witchberry to make Poison.",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id": 18,
+"name": "Witchberry",
+"title": "Witchberry",
+"description": "Be careful not to mistaken these are Golden Sweetberries, as Witchberries are extremely poisonous. Its vibrant purple colour shall hopefully deter those who try to consume it. Mix with Poisonwort to make Poison.",
+"stackable": true,
+"craftable": false
+},
+
+{
+"id" : 19,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 20,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 21,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 22,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 23,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 24,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 25,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 26,
+"name" : "NONE",
+"title" : "NONE",
+"description" : "NONE",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 27,
+"name" : "SwordCurvedRust",
+"title" : "Rusty Sword",
+"description" : "Heavily damaged by rust. Hopefully it wont snap in half.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 28,
+"name" : "SwordCurvedSteel",
+"title" : "Steel Sword",
+"description" : "Forged by the skilled hands of a master craftsman.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 29,
+"name" : "SwordCurvedWood",
+"title" : "Wooden Sword",
+"description" : "Used mainly for sparring. Be careful of the splinters.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 30,
+"name" : "SwordCurvedBlack",
+"title" : "Onyx Sword",
+"description" : "Cursed by the Gods and excited to shed the blood of their followers.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 31,
+"name" : "SwordCurvedGhost",
+"title" : "Haunted Sword",
+"description" : "It's almost as if it has chosen you to be its owner.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 32,
+"name" : "SwordStraightRust",
+"title" : "Old Sword",
+"description" : "Discarded by its previous owner.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 33,
+"name" : "SwordStraightSteel",
+"title" : "Tempered Sword",
+"description" : "A classic, go-to weapon used throughout the archipelago.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 34,
+"name" : "SwordStraightWood",
+"title" : "Training Sword",
+"description" : "A carpenter's handywork, sanded down smooth.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 35,
+"name" : "SwordStraightBlack",
+"title" : "Ebony Sword",
+"description" : "This weapon hungers for the crimson blood of the evil. Well, any blood really.",
+"stackable" : false,
+"craftable" : false
+},
+
+{
+"id" : 36,
+"name" : "SwordStraightGhost",
+"title" : "Phantom Sword",
+"description" : "It is rumoured that it contains the souls of fallen creatures, lost in battle.",
+"stackable" : false,
+"craftable" : false
+}
+]
+}

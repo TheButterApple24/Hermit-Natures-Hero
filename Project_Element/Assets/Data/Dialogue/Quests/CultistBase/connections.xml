@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorConnection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorConnection>
+    <m_InPoint>
+      <m_ID>1b23e39c-989c-43cb-806e-0052280f606d</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>3b3cf0fe-bcb2-4578-a718-c0a0cd8d7a20</m_ID>
+    </m_OutPoint>
+  </DialogueEditorConnection>
+</ArrayOfDialogueEditorConnection>

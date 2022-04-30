@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>e7423891-203a-464e-901c-8d6ad01ab634</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>Mhmm  </m_PromptText>
+  </DialogueEditorPrompt>
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>d4f98440-ae86-44e0-ab21-da9af7f09862</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>1</m_PromptIndex>
+    <m_PromptText>.......</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: DateCampBook
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: You find a dirty, half-burnt journal on the ground. Read it?
+    m_InID: 52963004-e519-4394-bf36-ce728933003e
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: You place the book where you found it.
+    m_InID: 59a9dfa4-5edf-45a9-9d42-add301a3034c
+    m_OutID: fe9149e9-f8d5-4f44-882f-96c80809def7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: Today is the day!
+    m_InID: 70b0b15a-965e-4399-9e52-5e63e059424d
+    m_OutID: d81f3b11-3ebd-45db-91d2-0f5124246e98
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: I can't believe she said yes to the date. This will be the greatest day
+      ever!
+    m_InID: b53763db-789c-4b6f-b5e0-e0ce4f1fde5f
+    m_OutID: d3437ffe-6fa0-4383-90e3-783dfaabaa1f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: She should be here any minute now.
+    m_InID: 9adf96a9-395d-4975-b787-ed3e3edbd966
+    m_OutID: 733468b7-9a23-4125-83bf-bad9ff353d53
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Keep reading?
+    m_InID: f871fd6d-e909-4da8-9f77-9d8c20c7e635
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 2
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: She's running late... that's not really like her
+    m_InID: c1b903bd-88e9-478e-af29-230941fce52b
+    m_OutID: 341cbefe-6a65-4b86-b954-964dec226dd8
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: Maybe she overpacked for the camping trip. Imagine the giant backpack
+      she must be carrying!
+    m_InID: effad78c-bdc4-4466-92b0-312f31d7aded
+    m_OutID: fc43baaa-5a04-4dc5-b50e-de0b4607de3e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: Oh, I see a torch coming this way, that must be her!
+    m_InID: 6d2eb965-c38a-447f-be50-4380b1035c52
+    m_OutID: 90e9f183-ad6c-4706-a145-7daffbb782ec
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Keep reading?
+    m_InID: 395df7b1-437d-48b2-b683-1f295ecee59c
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 4
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: Everything is burning
+    m_InID: 4c1dff32-5dc0-4bf2-89ce-9c1048e64160
+    m_OutID: 4d2acc55-4d2a-4c76-9abd-ba3ca60acbf0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: I thought we were supposed to safe from the cults here! I thought Dappfloris
+      was supposed to protect us!
+    m_InID: 41f77644-d963-4508-8fb1-c46ef92b5d29
+    m_OutID: 6f63bed7-7d45-4899-8c9a-54ded93a9264
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: ???
+    m_Line: I have to get ou
+    m_InID: 0eacc2ce-deff-4d3e-97d5-226cf478d92d
+    m_OutID: dd550f32-ce23-4690-affa-7314914c3a7f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: The entry ends there.
+    m_InID: 218087e8-edd1-4692-953d-ee594bd4e158
+    m_OutID: 97dbdc56-3dcb-4f83-82f0-fc1374ae7d21
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 59a9dfa4-5edf-45a9-9d42-add301a3034c
+    m_OutID: 7084d8b1-e091-4d68-a0c4-7a19afc8046e
+  - m_InID: 70b0b15a-965e-4399-9e52-5e63e059424d
+    m_OutID: 37a4af90-1984-451e-97f8-a4e4d0c06704
+  - m_InID: b53763db-789c-4b6f-b5e0-e0ce4f1fde5f
+    m_OutID: d81f3b11-3ebd-45db-91d2-0f5124246e98
+  - m_InID: 9adf96a9-395d-4975-b787-ed3e3edbd966
+    m_OutID: d3437ffe-6fa0-4383-90e3-783dfaabaa1f
+  - m_InID: 59a9dfa4-5edf-45a9-9d42-add301a3034c
+    m_OutID: d14df4ed-18a6-4035-81dd-0857308c3a31
+  - m_InID: f871fd6d-e909-4da8-9f77-9d8c20c7e635
+    m_OutID: 733468b7-9a23-4125-83bf-bad9ff353d53
+  - m_InID: c1b903bd-88e9-478e-af29-230941fce52b
+    m_OutID: bc54373a-3314-4286-9c7b-e260d5c72aa1
+  - m_InID: effad78c-bdc4-4466-92b0-312f31d7aded
+    m_OutID: 341cbefe-6a65-4b86-b954-964dec226dd8
+  - m_InID: 6d2eb965-c38a-447f-be50-4380b1035c52
+    m_OutID: fc43baaa-5a04-4dc5-b50e-de0b4607de3e
+  - m_InID: 395df7b1-437d-48b2-b683-1f295ecee59c
+    m_OutID: 90e9f183-ad6c-4706-a145-7daffbb782ec
+  - m_InID: 59a9dfa4-5edf-45a9-9d42-add301a3034c
+    m_OutID: 054003c2-93fa-4981-a387-ff76460b82ca
+  - m_InID: 4c1dff32-5dc0-4bf2-89ce-9c1048e64160
+    m_OutID: aeb0882a-9273-433e-ba83-c74cd6928b3b
+  - m_InID: 41f77644-d963-4508-8fb1-c46ef92b5d29
+    m_OutID: 4d2acc55-4d2a-4c76-9abd-ba3ca60acbf0
+  - m_InID: 0eacc2ce-deff-4d3e-97d5-226cf478d92d
+    m_OutID: 6f63bed7-7d45-4899-8c9a-54ded93a9264
+  - m_InID: 218087e8-edd1-4692-953d-ee594bd4e158
+    m_OutID: dd550f32-ce23-4690-affa-7314914c3a7f
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Yes
+    m_OutID: 37a4af90-1984-451e-97f8-a4e4d0c06704
+  - m_PromptIndex: 1
+    m_Line: No
+    m_OutID: 7084d8b1-e091-4d68-a0c4-7a19afc8046e
+  - m_PromptIndex: 2
+    m_Line: Yes
+    m_OutID: bc54373a-3314-4286-9c7b-e260d5c72aa1
+  - m_PromptIndex: 3
+    m_Line: No
+    m_OutID: d14df4ed-18a6-4035-81dd-0857308c3a31
+  - m_PromptIndex: 4
+    m_Line: Yes
+    m_OutID: aeb0882a-9273-433e-ba83-c74cd6928b3b
+  - m_PromptIndex: 5
+    m_Line: No
+    m_OutID: 054003c2-93fa-4981-a387-ff76460b82ca

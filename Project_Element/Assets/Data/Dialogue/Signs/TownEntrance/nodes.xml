@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorNode>
+    <m_Rect>
+      <x>317</x>
+      <y>269</y>
+      <position>
+        <x>317</x>
+        <y>269</y>
+      </position>
+      <center>
+        <x>417</x>
+        <y>294</y>
+      </center>
+      <min>
+        <x>317</x>
+        <y>269</y>
+      </min>
+      <max>
+        <x>517</x>
+        <y>319</y>
+      </max>
+      <width>200</width>
+      <height>50</height>
+      <size>
+        <x>200</x>
+        <y>50</y>
+      </size>
+      <xMin>317</xMin>
+      <yMin>269</yMin>
+      <xMax>517</xMax>
+      <yMax>319</yMax>
+    </m_Rect>
+    <m_HasPrompts>false</m_HasPrompts>
+    <m_InPoint>
+      <m_ID>0f27c4e9-b3f8-439f-a191-84e7bdfe09ab</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>3662a8f2-1267-4a24-92da-41926d64d710</m_ID>
+    </m_OutPoint>
+    <m_Name />
+    <m_Line>Cultists will be attacked on sight. KEEP OUT!</m_Line>
+  </DialogueEditorNode>
+</ArrayOfDialogueEditorNode>

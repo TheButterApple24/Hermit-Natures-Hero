@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorPrompt xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>0c03a3ec-5726-471a-b35e-672f95f5ca20</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+    <m_PromptText>Why?</m_PromptText>
+  </DialogueEditorPrompt>
+  <DialogueEditorPrompt>
+    <m_OutPoint>
+      <m_ID>a50687f5-a9b7-4c7b-8f99-682d6220d29f</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>1</m_PromptIndex>
+    <m_PromptText>Who are you?</m_PromptText>
+  </DialogueEditorPrompt>
+</ArrayOfDialogueEditorPrompt>

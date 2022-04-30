@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _RomaineoJuliet
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Romaineo
+    m_Line: "Don\u2019t worry sweetie, they\u2019ll never find us here."
+    m_InID: 2ec8cc64-acd3-4598-a2b2-791f914bb1cd
+    m_OutID: 3d3ab13d-02d7-4ade-bf28-71285b0b36aa
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Juliet
+    m_Line: Are you sure? The Trio can see everything!
+    m_InID: 525bd93f-7532-4c8d-8a31-ecc2a7b3c114
+    m_OutID: 40fb2cdc-b529-4aa5-a149-f8a6870eb747
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Romaineo
+    m_Line: "The Trio would bless us, it\u2019s the others that disapprove."
+    m_InID: 05fec675-e18c-401d-bd72-9a84e1f7a7b9
+    m_OutID: 9cafe858-fb8f-4aff-a0b8-60fc3f7b9541
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Juliet
+    m_Line: "I don\u2019t know anymore\u2026"
+    m_InID: c30a6c1a-c7b9-45f4-88d8-e7eca2acc4f2
+    m_OutID: faca9042-c99b-4fa9-b94b-1f13ebcd8704
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Romaineo
+    m_Line: Our love will conquer all. Trust me, Soggy Buns.
+    m_InID: 42fad089-ee18-4012-8e47-7c02edf95495
+    m_OutID: 9997091d-3da8-4c84-abb4-09978cb2b2a2
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Juliet
+    m_Line: Ugh, I hate that name. I do trust you though, Twiggy Poo.
+    m_InID: d778bb1f-095c-4c90-b5c6-ecd4d93a2552
+    m_OutID: ae2e7a48-9876-4319-ba5d-f3914df5bc51
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  Connections:
+  - m_InID: 525bd93f-7532-4c8d-8a31-ecc2a7b3c114
+    m_OutID: 3d3ab13d-02d7-4ade-bf28-71285b0b36aa
+  - m_InID: 05fec675-e18c-401d-bd72-9a84e1f7a7b9
+    m_OutID: 40fb2cdc-b529-4aa5-a149-f8a6870eb747
+  - m_InID: c30a6c1a-c7b9-45f4-88d8-e7eca2acc4f2
+    m_OutID: 9cafe858-fb8f-4aff-a0b8-60fc3f7b9541
+  - m_InID: 42fad089-ee18-4012-8e47-7c02edf95495
+    m_OutID: faca9042-c99b-4fa9-b94b-1f13ebcd8704
+  - m_InID: d778bb1f-095c-4c90-b5c6-ecd4d93a2552
+    m_OutID: 9997091d-3da8-4c84-abb4-09978cb2b2a2
+  Prompts: []

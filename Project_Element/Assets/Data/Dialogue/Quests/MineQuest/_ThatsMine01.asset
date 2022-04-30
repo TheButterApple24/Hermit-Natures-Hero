@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _ThatsMine01
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Geoff
+    m_Line: Whoa, careful where you're heading!
+    m_InID: 3f64d41d-18a0-4e57-ad4d-e9eb26fffb27
+    m_OutID: f8a02b3f-8dc9-4c09-898a-529b8ebad504
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: Geoff
+    m_Line: Cultists have taken over the mines. I just barely escaped.
+    m_InID: 4d21628e-5a85-4f45-9ff7-c584a495fb6e
+    m_OutID: bbc391ab-d2bc-40fd-ac3b-2d134c4643e0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: Geoff
+    m_Line: My friends are still trapped in the upper campsite.
+    m_InID: b1c30ba9-9715-41f2-8fb4-5d3b3e1980d9
+    m_OutID: 40efb487-fa6e-40d4-aead-d33fbf3bacf0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: Geoff
+    m_Line: I know there's a key to get inside in the lower camp. Would you be willing
+      to help?
+    m_InID: b4f5c032-1339-4932-97cb-345a4885c88e
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 3
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: Geoff
+    m_Line: Thank you!
+    m_InID: 02ec598b-2743-4588-9681-b07e8fc1fea7
+    m_OutID: e734464c-f417-4042-924f-efa16e1213f7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  Connections:
+  - m_InID: 4d21628e-5a85-4f45-9ff7-c584a495fb6e
+    m_OutID: f8a02b3f-8dc9-4c09-898a-529b8ebad504
+  - m_InID: b1c30ba9-9715-41f2-8fb4-5d3b3e1980d9
+    m_OutID: bbc391ab-d2bc-40fd-ac3b-2d134c4643e0
+  - m_InID: b4f5c032-1339-4932-97cb-345a4885c88e
+    m_OutID: 40efb487-fa6e-40d4-aead-d33fbf3bacf0
+  - m_InID: 02ec598b-2743-4588-9681-b07e8fc1fea7
+    m_OutID: aac81712-f8a7-4207-bd59-0434055a98c9
+  - m_InID: 02ec598b-2743-4588-9681-b07e8fc1fea7
+    m_OutID: b147ddc7-8326-4ec6-9b23-2cca9e8102ea
+  - m_InID: 02ec598b-2743-4588-9681-b07e8fc1fea7
+    m_OutID: e71c8656-95e1-409c-a5b6-df84c1b8b11a
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Yeah!
+    m_OutID: aac81712-f8a7-4207-bd59-0434055a98c9
+  - m_PromptIndex: 1
+    m_Line: I'm here to fight.
+    m_OutID: b147ddc7-8326-4ec6-9b23-2cca9e8102ea
+  - m_PromptIndex: 2
+    m_Line: I'll think about it.
+    m_OutID: e71c8656-95e1-409c-a5b6-df84c1b8b11a

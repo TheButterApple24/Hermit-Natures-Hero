@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: BoardedHouse1
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Looks like the doors and windows are boarded up.
+    m_InID: d76fd101-68ad-4ba9-9587-8cbeabfe1474
+    m_OutID: fb112c70-9e87-4b63-9ab4-d532b401587d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Angry Man
+    m_Line: I hear you rustling around out there! Go away!
+    m_InID: 41c09745-c3ff-4c91-9461-8beddcef7fe3
+    m_OutID: 9393c70f-c096-43bc-b290-a0476812565f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Angry Man
+    m_Line: I'd rather die before I let you cultists scum take my home!
+    m_InID: 608087ad-bf19-4618-b7cd-ab42916bcf8e
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Angry Man
+    m_Line: SCRAM!
+    m_InID: 04e25b60-72ef-43c7-a330-67e838baf07a
+    m_OutID: dd647441-c33f-46f5-a3d0-735de16e0319
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  Connections:
+  - m_InID: 41c09745-c3ff-4c91-9461-8beddcef7fe3
+    m_OutID: fb112c70-9e87-4b63-9ab4-d532b401587d
+  - m_InID: 608087ad-bf19-4618-b7cd-ab42916bcf8e
+    m_OutID: 9393c70f-c096-43bc-b290-a0476812565f
+  - m_InID: 04e25b60-72ef-43c7-a330-67e838baf07a
+    m_OutID: 5b3a37c2-5a07-4d41-a744-f59915e6db79
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: But I'm not a -
+    m_OutID: 5b3a37c2-5a07-4d41-a744-f59915e6db79

@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fbd8ca05ad84b945b6c3e40a4496332, type: 3}
+  m_Name: PlayerTree
+  m_EditorClassIdentifier: 
+  Nodes:
+  - PointCost: 1
+    SkillProperty: MaxHealth
+    SkillAmount: 1
+    BranchNumber: 0
+    BranchStartNumber: 0
+    InID: 58f11a73-bdc9-445f-b68d-7b4c1041d75a
+    OutID: be6e62b3-0613-4e7b-8053-4eb69238b9f1
+    HasBranches: 0
+  - PointCost: 1
+    SkillProperty: MaxStamina
+    SkillAmount: 1
+    BranchNumber: 0
+    BranchStartNumber: 0
+    InID: ef0529bf-3c56-4e18-b089-c49f5bd96a21
+    OutID: 31c6adb9-2c3d-41fa-8ca4-a49e9f3c931e
+    HasBranches: 0
+  - PointCost: 3
+    SkillProperty: MaxDefense
+    SkillAmount: 2
+    BranchNumber: 2
+    BranchStartNumber: 0
+    InID: 52bc85b4-ed8d-4c63-994b-01da7c87662f
+    OutID: 
+    HasBranches: 1
+  - PointCost: 4
+    SkillProperty: MaxHealth
+    SkillAmount: 3
+    BranchNumber: 2
+    BranchStartNumber: 2
+    InID: e300b3c0-4e33-47b7-9334-f486bda52df5
+    OutID: 
+    HasBranches: 1
+  - PointCost: 4
+    SkillProperty: MaxStamina
+    SkillAmount: 3
+    BranchNumber: 2
+    BranchStartNumber: 4
+    InID: c08b74f0-204c-4632-a921-61091602e6f1
+    OutID: 
+    HasBranches: 1
+  - PointCost: 5
+    SkillProperty: EquipmentUI
+    SkillAmount: 5
+    BranchNumber: 0
+    BranchStartNumber: 0
+    InID: d1f6f865-1577-4adb-b479-7dd3bd21bde8
+    OutID: 7873d316-7bb0-4dfe-8076-9e04e8bb945e
+    HasBranches: 0
+  - PointCost: 5
+    SkillProperty: MaxDefense
+    SkillAmount: 5
+    BranchNumber: 0
+    BranchStartNumber: 0
+    InID: e02dc64f-b1d3-4d63-8d60-f2d87212ccc0
+    OutID: e31eafef-4110-406d-a81a-81f7226a4d98
+    HasBranches: 0
+  - PointCost: 5
+    SkillProperty: MaxHealth
+    SkillAmount: 5
+    BranchNumber: 0
+    BranchStartNumber: 0
+    InID: f7fb244d-c18f-4b1a-8490-2e4a2d7aea1f
+    OutID: 970728bf-620c-4767-a99f-9f317070811b
+    HasBranches: 0
+  - PointCost: 5
+    SkillProperty: MaxStamina
+    SkillAmount: 5
+    BranchNumber: 0
+    BranchStartNumber: 0
+    InID: e8380d8d-8def-4fe7-8114-53e7a71f92fe
+    OutID: f291864f-7fee-4baf-bd55-19bdef1ca311
+    HasBranches: 0
+  Connections:
+  - InID: ef0529bf-3c56-4e18-b089-c49f5bd96a21
+    OutID: be6e62b3-0613-4e7b-8053-4eb69238b9f1
+  - InID: 52bc85b4-ed8d-4c63-994b-01da7c87662f
+    OutID: 31c6adb9-2c3d-41fa-8ca4-a49e9f3c931e
+  - InID: e300b3c0-4e33-47b7-9334-f486bda52df5
+    OutID: 94f474ab-7ecc-4007-97b9-129ae90bae79
+  - InID: c08b74f0-204c-4632-a921-61091602e6f1
+    OutID: 876b6cc0-2932-4ed6-8832-9c2e5699f0ae
+  - InID: d1f6f865-1577-4adb-b479-7dd3bd21bde8
+    OutID: 27688078-ea55-413d-8818-bb3c6df3e283
+  - InID: e02dc64f-b1d3-4d63-8d60-f2d87212ccc0
+    OutID: 4ee54a16-de78-4848-b217-d6edb757c6d6
+  - InID: f7fb244d-c18f-4b1a-8490-2e4a2d7aea1f
+    OutID: c17b2408-ce11-46f8-98e4-229ddc7fec77
+  - InID: e8380d8d-8def-4fe7-8114-53e7a71f92fe
+    OutID: 1c10e193-76c8-42d0-84ec-9c3cd957dc64
+  Branches:
+  - OutID: 94f474ab-7ecc-4007-97b9-129ae90bae79
+  - OutID: 876b6cc0-2932-4ed6-8832-9c2e5699f0ae
+  - OutID: 27688078-ea55-413d-8818-bb3c6df3e283
+  - OutID: 4ee54a16-de78-4848-b217-d6edb757c6d6
+  - OutID: c17b2408-ce11-46f8-98e4-229ddc7fec77
+  - OutID: 1c10e193-76c8-42d0-84ec-9c3cd957dc64

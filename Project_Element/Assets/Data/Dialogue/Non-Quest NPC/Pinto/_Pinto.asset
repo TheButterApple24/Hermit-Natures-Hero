@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Pinto
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Pinto
+    m_Line: Have you spoken to my brother?
+    m_InID: 33c3b262-e8a8-4b89-842d-2e3837a9c67d
+    m_OutID: 8186d0be-27e8-43c8-a8a2-b4f25fa3c445
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Pinto
+    m_Line: "Don\u2019t listen to a word he says. He\u2019s just jealous because
+      I have the high ground."
+    m_InID: f39c7675-14b3-433c-bcb0-f8fec46036bb
+    m_OutID: 962e7c30-b60a-405a-abdb-c0a90854cd46
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  Connections:
+  - m_InID: f39c7675-14b3-433c-bcb0-f8fec46036bb
+    m_OutID: 8186d0be-27e8-43c8-a8a2-b4f25fa3c445
+  Prompts: []

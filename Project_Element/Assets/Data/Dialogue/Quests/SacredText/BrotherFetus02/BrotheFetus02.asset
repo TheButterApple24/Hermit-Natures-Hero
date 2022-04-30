@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: BrotheFetus02
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Brother Festus
+    m_Line: Where is the book?
+    m_InID: 1100d5f2-472c-4552-9761-5a43a3f35c78
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Brother Festus
+    m_Line: You did not read the sacred texts, right?
+    m_InID: b6316a49-e629-4001-b060-a9d33bf359d8
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 1
+    EmotionIndex: 2
+  - m_SpeakerName: Brother Festus
+    m_Line: ....Oh dear
+    m_InID: 3496b2d4-6959-46dc-9a30-8a4092fc6512
+    m_OutID: 55fd3502-f541-4c72-879e-474c6805f95f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  Connections:
+  - m_InID: b6316a49-e629-4001-b060-a9d33bf359d8
+    m_OutID: a6322348-44b5-4877-a69b-93b75fd1b021
+  - m_InID: 3496b2d4-6959-46dc-9a30-8a4092fc6512
+    m_OutID: 97d16f58-e446-423d-a5cd-54662eff077e
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: ......
+    m_OutID: a6322348-44b5-4877-a69b-93b75fd1b021
+  - m_PromptIndex: 1
+    m_Line: ......
+    m_OutID: 97d16f58-e446-423d-a5cd-54662eff077e

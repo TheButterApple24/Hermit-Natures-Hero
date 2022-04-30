@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: RetiredCultistGravestone
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Gravestone
+    m_Line: Here lies Edith, a beloved wife and friend.
+    m_InID: 8a330394-d720-49a3-a835-f356974d2298
+    m_OutID: 2ba607fb-4127-49e2-ac81-35259367c1cf
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Gravestone
+    m_Line: She courageously gave her life defending Mallow Village from a cultist
+      attack.
+    m_InID: 9348f29c-b2b6-4e38-b0ce-5c0656534bdb
+    m_OutID: 30973aea-b053-41db-85d1-b4153c632839
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: 'The grave looks well taken care of. '
+    m_InID: 309ea476-9b4d-4ef6-837b-8512dba420a8
+    m_OutID: e209b924-8e6c-45e1-bb73-3c1b098db973
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 9348f29c-b2b6-4e38-b0ce-5c0656534bdb
+    m_OutID: 2ba607fb-4127-49e2-ac81-35259367c1cf
+  - m_InID: 309ea476-9b4d-4ef6-837b-8512dba420a8
+    m_OutID: 30973aea-b053-41db-85d1-b4153c632839
+  Prompts: []

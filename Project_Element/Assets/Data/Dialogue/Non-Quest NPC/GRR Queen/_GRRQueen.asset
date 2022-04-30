@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _GRRQueen
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: G. R. R. Queen
+    m_Line: Have you read "The Short Tale of the Lonely Lupent"?
+    m_InID: 1636acd3-9fcb-4df3-ae00-dfeecad0c320
+    m_OutID: d0e66516-9dd0-44e8-9618-302a3fba41cb
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: G. R. R. Queen
+    m_Line: "No? What about \"You\u2019re Outta Your Element, Kid\"?"
+    m_InID: da6ad96b-d6f0-480b-a19d-5d2dcc3e5cd5
+    m_OutID: e21a3f98-4fe5-49da-b769-697ca6d26985
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: G. R. R. Queen
+    m_Line: "Wow, really?! That\u2019s a classic!"
+    m_InID: c0998d6a-b64e-46ec-bcfe-797f0dc6acd1
+    m_OutID: 044e6a81-842d-42f9-93b3-b04afddea848
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: G. R. R. Queen
+    m_Line: "If you need any recommendations, I\u2019ll be here all day."
+    m_InID: 0f509ee6-9ade-485f-bb48-064f43f5b592
+    m_OutID: 32240599-32af-4e27-b92b-8aac967a8f5d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: da6ad96b-d6f0-480b-a19d-5d2dcc3e5cd5
+    m_OutID: d0e66516-9dd0-44e8-9618-302a3fba41cb
+  - m_InID: c0998d6a-b64e-46ec-bcfe-797f0dc6acd1
+    m_OutID: e21a3f98-4fe5-49da-b769-697ca6d26985
+  - m_InID: 0f509ee6-9ade-485f-bb48-064f43f5b592
+    m_OutID: 044e6a81-842d-42f9-93b3-b04afddea848
+  Prompts: []

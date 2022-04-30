@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d384aa08fe7b74fa04bb074eb55d4f, type: 3}
+  m_Name: Sunpalm
+  m_EditorClassIdentifier: 
+  ItemID: 12
+  ItemName: Sunpalm
+  ItemTitle: Sunpalm
+  ItemDescription: A highly versatile plant that thrives in sunlight. Has strong
+    restorative qualities and is a popular ingredient with apothecaries. Mix with
+    Nurseblossom to make a Potion of Healing, or Bandit's Grace to make a Potion
+    of Vigor.
+  ItemType: 3
+  ItemIcon: {fileID: 21300000, guid: fe86d4423e3ae62488ffc94e8d518198, type: 3}
+  ItemPrefab: {fileID: 4628301409364250736, guid: 0f91f6e8c85633f48be6365bec17f0ee, type: 3}

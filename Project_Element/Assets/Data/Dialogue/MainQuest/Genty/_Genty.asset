@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Genty
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Genty
+    m_Line: "Ah, you\u2019re here for Lostheart\u2019s sword are ye?"
+    m_InID: c8569ab6-b9cb-4839-b84e-98d9f907f966
+    m_OutID: ae5cf814-3041-4313-bf5d-a7283a232ead
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Genty
+    m_Line: Bad news, I scrapped it down. Real shame that.
+    m_InID: e1b37eb8-7d15-4226-a3df-26c8f4a10a41
+    m_OutID: c8c59fb4-928b-4a66-8a6f-cf0783eb060d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Genty
+    m_Line: ...
+    m_InID: cafee2df-cea6-4f98-8ff7-cd0ef066e4dc
+    m_OutID: ad75ef34-c5bd-45fa-b598-df9b429f71b9
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 2
+  - m_SpeakerName: Genty
+    m_Line: "Oh wait! Never mind, it\u2019s just over on that table there."
+    m_InID: 83aaa06f-b92a-4684-b5fa-bfdf638e2448
+    m_OutID: 54a188d5-b674-4d11-9e3c-2c0223b40e5d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Genty
+    m_Line: Tell her sorry for me, would yah?
+    m_InID: 04f92d9a-ea87-4a39-b9b1-da863abf921c
+    m_OutID: 0818bfad-dd9e-4d82-99b6-4ffd3ef1baa6
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Genty
+    m_Line: Before you do though, you should speak with the Mayor.
+    m_InID: c652cb2b-4b20-4c0f-b5b2-b1769785e622
+    m_OutID: c3f221ef-ec8b-40e3-9ed2-2a7ed847b3fd
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Genty
+    m_Line: "He\u2019s in his house in the city center, you might be the one he\u2019s
+      been looking for."
+    m_InID: db0dba43-f4e9-4e16-a7d0-7f24ca0247a4
+    m_OutID: 3ad95040-f4a0-4ae4-b6fd-6eee0fdd0850
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: e1b37eb8-7d15-4226-a3df-26c8f4a10a41
+    m_OutID: ae5cf814-3041-4313-bf5d-a7283a232ead
+  - m_InID: cafee2df-cea6-4f98-8ff7-cd0ef066e4dc
+    m_OutID: c8c59fb4-928b-4a66-8a6f-cf0783eb060d
+  - m_InID: 83aaa06f-b92a-4684-b5fa-bfdf638e2448
+    m_OutID: ad75ef34-c5bd-45fa-b598-df9b429f71b9
+  - m_InID: 04f92d9a-ea87-4a39-b9b1-da863abf921c
+    m_OutID: 54a188d5-b674-4d11-9e3c-2c0223b40e5d
+  - m_InID: c652cb2b-4b20-4c0f-b5b2-b1769785e622
+    m_OutID: 0818bfad-dd9e-4d82-99b6-4ffd3ef1baa6
+  - m_InID: db0dba43-f4e9-4e16-a7d0-7f24ca0247a4
+    m_OutID: c3f221ef-ec8b-40e3-9ed2-2a7ed847b3fd
+  Prompts: []

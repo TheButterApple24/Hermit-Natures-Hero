@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _IgnisBook
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Ignis, the power of Fire.
+    m_InID: f32bdc22-f34b-4709-a112-470c68b1420b
+    m_OutID: 446c4928-03db-4aca-b5dd-f8ec89964d70
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: With this strength, the wielder feels their muscles bulge, and items
+      that were previously heavy can now be swung with ease..
+    m_InID: 73df39ac-09f9-4581-8336-1ab137b4a5ae
+    m_OutID: 9adcd2fd-75bc-4d24-8a08-615a9c474ec4
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Ignis-Hrol, the God of Fire, turns expansive empires to ash in a matter
+      of minutes, just for a laugh. It is also said that his laugh causes people
+      to combust.
+    m_InID: a9b92426-fcbd-4a4d-96d6-6d6e61989111
+    m_OutID: 1e1b503b-4101-4990-87e3-b2d2dd5f2f92
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 73df39ac-09f9-4581-8336-1ab137b4a5ae
+    m_OutID: 446c4928-03db-4aca-b5dd-f8ec89964d70
+  - m_InID: a9b92426-fcbd-4a4d-96d6-6d6e61989111
+    m_OutID: 9adcd2fd-75bc-4d24-8a08-615a9c474ec4
+  Prompts: []

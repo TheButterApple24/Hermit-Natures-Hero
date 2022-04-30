@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d384aa08fe7b74fa04bb074eb55d4f, type: 3}
+  m_Name: Poisonwort
+  m_EditorClassIdentifier: 
+  ItemID: 17
+  ItemName: Poisonwort
+  ItemTitle: Poisonwort
+  ItemDescription: A bulbous, multicoloured plant that gives off an unpleasant odour
+    to disgust any hungry herbivore. Grows in wet or swampy areas. Mix with Witchberry
+    to make Poison.
+  ItemType: 3
+  ItemIcon: {fileID: 21300000, guid: 3395280dbb1444a46971898fcd7caf3b, type: 3}
+  ItemPrefab: {fileID: 7155195426652935127, guid: 09338058d35010948acb7d35d45429e5, type: 3}

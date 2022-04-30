@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Lostheart01
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: ???
+    m_Line: Ahoy, little one!
+    m_InID: fa509832-40f0-445b-81cb-12e557122d84
+    m_OutID: af5f8959-ac1b-43dc-8cdc-465ccfec11d8
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 0
+  - m_SpeakerName: ???
+    m_Line: "I\u2019m pretty busy \u2018ere, can ya visit my old pal in the city?"
+    m_InID: a4b9d3cb-a247-43c4-8a3b-4a18b2e00472
+    m_OutID: 94bb5be3-852a-4a7e-9561-140ecba9579b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: ???
+    m_Line: "The driftwood still has my blade, and he SWORE he\u2019d get it back
+      to me yesterday!"
+    m_InID: 08f846be-c913-4d5b-a63e-b9e68f97bbec
+    m_OutID: 6304afeb-1a7c-4be4-aa4c-e15c0d88c227
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: ???
+    m_Line: BAH!
+    m_InID: c7e8babb-bdc4-494c-9be6-8b69c6f8725b
+    m_OutID: bbf1612e-f7d9-424c-a32a-34886be7f1f0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 0
+  - m_SpeakerName: Lostheart
+    m_Line: "Sorry, name\u2019s Lostheart. Nice ta meetcha!"
+    m_InID: eb9476ad-3d60-4544-be24-bd0a01851a28
+    m_OutID: d78ee9e4-c6e2-4bbd-9292-1d5a107e2891
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 0
+  - m_SpeakerName: Lostheart
+    m_Line: "Now I gotta get back to it, this thing wont hammer itself, y\u2019know!"
+    m_InID: bae10add-85f6-4bc1-afb1-2744d883991d
+    m_OutID: 108dfc49-7397-4119-ac12-0de8dddde168
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  Connections:
+  - m_InID: a4b9d3cb-a247-43c4-8a3b-4a18b2e00472
+    m_OutID: af5f8959-ac1b-43dc-8cdc-465ccfec11d8
+  - m_InID: 08f846be-c913-4d5b-a63e-b9e68f97bbec
+    m_OutID: 94bb5be3-852a-4a7e-9561-140ecba9579b
+  - m_InID: c7e8babb-bdc4-494c-9be6-8b69c6f8725b
+    m_OutID: 6304afeb-1a7c-4be4-aa4c-e15c0d88c227
+  - m_InID: eb9476ad-3d60-4544-be24-bd0a01851a28
+    m_OutID: bbf1612e-f7d9-424c-a32a-34886be7f1f0
+  - m_InID: bae10add-85f6-4bc1-afb1-2744d883991d
+    m_OutID: d78ee9e4-c6e2-4bbd-9292-1d5a107e2891
+  Prompts: []

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Lostheart02
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Lostheart
+    m_Line: "I haven\u2019t seen this ol\u2019 gal in ages, bless your soul."
+    m_InID: f96a9e84-46ed-4a13-81fe-43ba8b953550
+    m_OutID: 10f215e6-cdad-41ad-96e9-739456124745
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 0
+  - m_SpeakerName: Lostheart
+    m_Line: If I ever have the pleasure of sailing the seas again, you can be my
+      first mate.
+    m_InID: b86eddcb-7de0-4d9c-a8e9-8d935375ae12
+    m_OutID: 5461f800-24bf-4cf5-b58a-5309017c6d9c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Lostheart
+    m_Line: And since I want my first mate happy, here, take this.
+    m_InID: b829ddb8-a686-4aef-8b43-621a63241d12
+    m_OutID: 3ee98490-91a0-4e6e-8a86-6116756d5f37
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Lostheart
+    m_Line: Thanks matey!
+    m_InID: 602d8303-d958-4a15-a2e2-12d7cc8e90ed
+    m_OutID: 94a82f82-92fc-4cca-af62-c3520a0d287e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 0
+  Connections:
+  - m_InID: b86eddcb-7de0-4d9c-a8e9-8d935375ae12
+    m_OutID: 10f215e6-cdad-41ad-96e9-739456124745
+  - m_InID: b829ddb8-a686-4aef-8b43-621a63241d12
+    m_OutID: 5461f800-24bf-4cf5-b58a-5309017c6d9c
+  - m_InID: 602d8303-d958-4a15-a2e2-12d7cc8e90ed
+    m_OutID: 3ee98490-91a0-4e6e-8a86-6116756d5f37
+  Prompts: []

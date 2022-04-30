@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Peggetto02
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Peggetto
+    m_Line: Thank you so much!
+    m_InID: f54a8dc1-67d5-4104-92bf-2afa60f06ae9
+    m_OutID: 1fccf1ca-8527-4052-9ccb-85c090d0d14f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: You have reunited our family, you deserve nothing less than my most recent
+      masterpiece!
+    m_InID: 05fe6e82-ea14-486e-95dc-44e93fcc083b
+    m_OutID: d0644061-0cd1-497f-8bf1-a9c22a0fbe8c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Peggetto
+    m_Line: Trio bless you!
+    m_InID: f1cc618e-64bb-4c0c-adff-0ed8d976e499
+    m_OutID: c4d2fe6f-bb55-4eab-9e8d-b278ff664276
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  Connections:
+  - m_InID: 05fe6e82-ea14-486e-95dc-44e93fcc083b
+    m_OutID: 1fccf1ca-8527-4052-9ccb-85c090d0d14f
+  - m_InID: f1cc618e-64bb-4c0c-adff-0ed8d976e499
+    m_OutID: d0644061-0cd1-497f-8bf1-a9c22a0fbe8c
+  Prompts: []

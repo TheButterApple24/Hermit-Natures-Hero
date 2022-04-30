@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorNode>
+    <m_Rect>
+      <x>135</x>
+      <y>210</y>
+      <position>
+        <x>135</x>
+        <y>210</y>
+      </position>
+      <center>
+        <x>235</x>
+        <y>235</y>
+      </center>
+      <min>
+        <x>135</x>
+        <y>210</y>
+      </min>
+      <max>
+        <x>335</x>
+        <y>260</y>
+      </max>
+      <width>200</width>
+      <height>50</height>
+      <size>
+        <x>200</x>
+        <y>50</y>
+      </size>
+      <xMin>135</xMin>
+      <yMin>210</yMin>
+      <xMax>335</xMax>
+      <yMax>260</yMax>
+    </m_Rect>
+    <m_HasPrompts>false</m_HasPrompts>
+    <m_InPoint>
+      <m_ID>b2f98d36-a6ff-4f69-a48d-4fa311ddfb38</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>a068fa7f-9e3b-4c74-a1cf-5c112706f7fc</m_ID>
+    </m_OutPoint>
+    <m_Name />
+    <m_Line>Dappfloris' love blooms here, join us.</m_Line>
+    <Emotion>5</Emotion>
+  </DialogueEditorNode>
+</ArrayOfDialogueEditorNode>

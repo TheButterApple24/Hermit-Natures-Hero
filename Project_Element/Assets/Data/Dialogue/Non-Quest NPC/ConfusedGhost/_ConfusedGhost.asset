@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _ConfusedGhost
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Confused Ghost
+    m_Line: "No, this doesn\u2019t make any sense."
+    m_InID: fcbe741a-2cf2-49e9-974f-248c7dd2eb46
+    m_OutID: 3d86e6cc-65e6-4123-a0ac-62549a81a1f0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Confused Ghost
+    m_Line: Why does this gravestone say my name?
+    m_InID: 8401f741-17c5-4f76-bfda-09f16730ab24
+    m_OutID: 612204d7-8b1d-4f8e-aac6-3767ba26dd24
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  Connections:
+  - m_InID: 8401f741-17c5-4f76-bfda-09f16730ab24
+    m_OutID: 3d86e6cc-65e6-4123-a0ac-62549a81a1f0
+  Prompts: []

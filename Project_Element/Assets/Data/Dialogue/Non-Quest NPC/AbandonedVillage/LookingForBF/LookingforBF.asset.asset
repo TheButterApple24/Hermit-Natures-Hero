@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: LookingforBF.asset
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Sweaty Lady
+    m_Line: D-d-do you see that?
+    m_InID: a7e3d03e-e2c7-4478-a7c9-b766e3b1bf8a
+    m_OutID: 433e63e6-772c-4e10-a9e6-9866b183f4e2
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Sweaty Lady
+    m_Line: All t-those Ignis cultists...
+    m_InID: 23458c61-106c-4a97-a4fe-a069f73a2db9
+    m_OutID: 826efc4d-ba7b-4a12-8bca-246192854e35
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Sweaty Lady
+    m_Line: They're SOOOO HOT!
+    m_InID: 0db7843b-541b-455a-b24a-8adaa1f4b3bf
+    m_OutID: 9b4d720d-2457-402c-94df-30d29bf39bb5
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Sweaty Lady
+    m_Line: 'D-do you think they''re accepting new recruits? '
+    m_InID: 5fb885e1-f5fa-4034-ba4b-d91edb44447c
+    m_OutID: 295ed368-0256-4ea6-a5ce-95dc23ee6ffa
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: 23458c61-106c-4a97-a4fe-a069f73a2db9
+    m_OutID: 433e63e6-772c-4e10-a9e6-9866b183f4e2
+  - m_InID: 0db7843b-541b-455a-b24a-8adaa1f4b3bf
+    m_OutID: 826efc4d-ba7b-4a12-8bca-246192854e35
+  - m_InID: 5fb885e1-f5fa-4034-ba4b-d91edb44447c
+    m_OutID: 9b4d720d-2457-402c-94df-30d29bf39bb5
+  Prompts: []

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: ResearchNote2
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: 'RESEARCH NOTE #2:'
+    m_InID: 6b164e73-c756-49b4-b843-f974ba7b062a
+    m_OutID: e8234f28-322b-45ae-a04d-467b125a4977
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: PROJECT POLTERGEIST was a success!
+    m_InID: 2b8c5bed-218f-49ab-a746-c9bbd19e94c7
+    m_OutID: 40981d26-f05a-478a-8362-6f10a96917fa
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: We have, for the first time in history, bound a human soul to a weapon!
+    m_InID: ed17e38f-2fd5-4eac-903c-e8ef5cdd4af5
+    m_OutID: 0bdeac30-1f06-428a-903d-c1887a14459e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: "Despite the\u2026 vengeful nature of the soul,"
+    m_InID: 769e52d0-9cce-4bed-b017-f2c4689cd87f
+    m_OutID: d58612e9-f4aa-4b4e-ad6b-d442123a1b66
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: the wielder of the poltergeist sword is granted unprecedented strength.
+    m_InID: 6258a55b-f9c3-4384-a7c0-995e69a67de4
+    m_OutID: e1c49449-1a02-4255-b434-4a9e1dca2336
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: With the power of our newly forged poltergeist sword, the water cult
+      shall reign supreme!
+    m_InID: 37631d5d-1168-4f06-b98e-4ba9f0177c4a
+    m_OutID: 813e6120-0b15-4467-a614-73329f3fd215
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  Connections:
+  - m_InID: 2b8c5bed-218f-49ab-a746-c9bbd19e94c7
+    m_OutID: e8234f28-322b-45ae-a04d-467b125a4977
+  - m_InID: ed17e38f-2fd5-4eac-903c-e8ef5cdd4af5
+    m_OutID: 40981d26-f05a-478a-8362-6f10a96917fa
+  - m_InID: 769e52d0-9cce-4bed-b017-f2c4689cd87f
+    m_OutID: 0bdeac30-1f06-428a-903d-c1887a14459e
+  - m_InID: 6258a55b-f9c3-4384-a7c0-995e69a67de4
+    m_OutID: d58612e9-f4aa-4b4e-ad6b-d442123a1b66
+  - m_InID: 37631d5d-1168-4f06-b98e-4ba9f0177c4a
+    m_OutID: e1c49449-1a02-4255-b434-4a9e1dca2336
+  Prompts: []

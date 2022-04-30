@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _RegularBarrel
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Barrel
+    m_Line: Shh, go away.
+    m_InID: bd8b1d2f-c6d8-4b0e-8fb3-c830780fe239
+    m_OutID: 95a62f81-7e23-4544-9a4b-3a6d7e0645a5
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Barrel
+    m_Line: Nothing to see here, just a regular barrel.
+    m_InID: f16c02f4-b970-4c30-bb7c-c51b6120a141
+    m_OutID: b6ce1789-ccb1-4382-a7ae-99f679d6af05
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Barrel
+    m_Line: A normal, non-descript barrel, not a hiding person or anything. Just
+      barrel.
+    m_InID: 6de1afe2-fe5b-441a-a647-0e14edb5fc8f
+    m_OutID: 0f52c295-8521-4e4d-99f6-c222509a08bb
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  Connections:
+  - m_InID: f16c02f4-b970-4c30-bb7c-c51b6120a141
+    m_OutID: 95a62f81-7e23-4544-9a4b-3a6d7e0645a5
+  - m_InID: 6de1afe2-fe5b-441a-a647-0e14edb5fc8f
+    m_OutID: b6ce1789-ccb1-4382-a7ae-99f679d6af05
+  Prompts: []

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorConnection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorConnection>
+    <m_InPoint>
+      <m_ID>41c09745-c3ff-4c91-9461-8beddcef7fe3</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>fb112c70-9e87-4b63-9ab4-d532b401587d</m_ID>
+    </m_OutPoint>
+  </DialogueEditorConnection>
+  <DialogueEditorConnection>
+    <m_InPoint>
+      <m_ID>608087ad-bf19-4618-b7cd-ab42916bcf8e</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>9393c70f-c096-43bc-b290-a0476812565f</m_ID>
+    </m_OutPoint>
+  </DialogueEditorConnection>
+  <DialogueEditorConnection>
+    <m_InPoint>
+      <m_ID>04e25b60-72ef-43c7-a330-67e838baf07a</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>5b3a37c2-5a07-4d41-a744-f59915e6db79</m_ID>
+    </m_OutPoint>
+  </DialogueEditorConnection>
+</ArrayOfDialogueEditorConnection>

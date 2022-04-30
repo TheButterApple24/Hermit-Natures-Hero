@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: RetiredCultistBarrel
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: The barrel is covered in dust. It looks like it hasn't been opened in
+      a while
+    m_InID: 4320e329-9f32-4a12-8262-db1a4b9e161b
+    m_OutID: b5b6bf7d-6a6c-47d6-8238-340c14789423
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: 'Inside it, you find a worn, dirty brown robe, and a red pendant. '
+    m_InID: 5be83e64-a521-4711-b29e-46893429ad16
+    m_OutID: df92064c-c36e-4b94-9bea-7663541c97c7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Could this be...?
+    m_InID: ff829e9e-8a77-43ba-aec8-61711b342d99
+    m_OutID: 2413750c-fe08-48bc-a1be-7de36bcc1068
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 5be83e64-a521-4711-b29e-46893429ad16
+    m_OutID: b5b6bf7d-6a6c-47d6-8238-340c14789423
+  - m_InID: ff829e9e-8a77-43ba-aec8-61711b342d99
+    m_OutID: df92064c-c36e-4b94-9bea-7663541c97c7
+  Prompts: []

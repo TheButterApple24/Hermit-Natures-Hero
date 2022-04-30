@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: ResearchNote3
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: 'RESEARCH NOTE #3:'
+    m_InID: 0ee79b17-706a-4eb6-ba8b-e4fe46c5b02a
+    m_OutID: 80d5839f-e9e8-4d53-bb03-b68670b0558f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: The project is over. We lost.
+    m_InID: d4b11105-7d63-4a6e-be64-2aa8d7afa023
+    m_OutID: 3457b1b7-64fe-4b93-9496-69cf9f76e101
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: A certain SOMEONE (Reggie, of course,) lost the poltergeist sword somewhere
+      near the walled city.
+    m_InID: 29f4ddf3-1e62-4599-9423-b4ee36b87efe
+    m_OutID: e64f97fe-3094-4c00-b1b6-d58338fbbc2d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Name
+    m_Line: 'To anyone reading this: if you see Reggie, stab him for me.'
+    m_InID: d796df38-92ed-4961-a639-e26230cab532
+    m_OutID: ba65c1f8-2689-4eb8-a988-9ff4e8bdc627
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: d4b11105-7d63-4a6e-be64-2aa8d7afa023
+    m_OutID: 80d5839f-e9e8-4d53-bb03-b68670b0558f
+  - m_InID: 29f4ddf3-1e62-4599-9423-b4ee36b87efe
+    m_OutID: 3457b1b7-64fe-4b93-9496-69cf9f76e101
+  - m_InID: d796df38-92ed-4961-a639-e26230cab532
+    m_OutID: e64f97fe-3094-4c00-b1b6-d58338fbbc2d
+  Prompts: []

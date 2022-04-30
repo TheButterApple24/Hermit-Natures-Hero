@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Twig02
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: The Twig
+    m_Line: They are with Dappfloris now.
+    m_InID: afa024af-99b0-4cde-915b-c146819cabf8
+    m_OutID: 1c679e25-d3e8-417d-a732-3da26fb333af
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: "Thank you child, you\u2019ve earned this."
+    m_InID: 21c05c2f-193c-44c8-98a8-51f1ffd5c536
+    m_OutID: ad3ee49b-82fb-4a14-9fbf-65fd49f50613
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: Use it to strike down the heretics and return peace to the island.
+    m_InID: 751d1abd-44df-45db-98c5-230afc0c5445
+    m_OutID: 8d89ba62-1d8e-487d-884d-01050e916e2c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  Connections:
+  - m_InID: 21c05c2f-193c-44c8-98a8-51f1ffd5c536
+    m_OutID: 1c679e25-d3e8-417d-a732-3da26fb333af
+  - m_InID: 751d1abd-44df-45db-98c5-230afc0c5445
+    m_OutID: ad3ee49b-82fb-4a14-9fbf-65fd49f50613
+  Prompts: []

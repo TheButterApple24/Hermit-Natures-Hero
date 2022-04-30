@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d384aa08fe7b74fa04bb074eb55d4f, type: 3}
+  m_Name: SwordLight
+  m_EditorClassIdentifier: 
+  ItemID: 1
+  ItemName: SwordLight
+  ItemTitle: Dueling Sword
+  ItemDescription: Fast and agile. This light blade was forged to pierce even the
+    strongest of foes.
+  ItemType: 0
+  ItemIcon: {fileID: 21300000, guid: 951eb56fe8cd6af4f8cdd22cb60c6d61, type: 3}
+  ItemPrefab: {fileID: 2745650309263755856, guid: 300370a53c92abe45bd8d8534bd1807d, type: 3}

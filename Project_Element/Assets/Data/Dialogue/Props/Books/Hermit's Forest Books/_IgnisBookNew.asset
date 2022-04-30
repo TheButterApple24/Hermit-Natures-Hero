@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _IgnisBookNew
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Ignis, the power of Fire
+    m_InID: 92d39984-bc83-41e8-b462-2ba738daef31
+    m_OutID: cd42171a-b74b-4768-aa5f-1e2ced602060
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: With this strength, the wielder feels their muscles bulge,
+    m_InID: 9d414365-737e-4bc6-968d-ef0e467b70b4
+    m_OutID: 025474d5-b2e5-46b7-80e9-e2c844f13012
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: and items that were previously heavy can now be swung with ease.
+    m_InID: c97024d1-8d24-4b91-84d7-f1f57d1f78be
+    m_OutID: 7037b3f7-7a98-4ca4-aefc-0c68a99044f1
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: 'Ignis-Hrol, the God of Fire, turns expansive empires to ash in a matter
+      of minutes, just for a laugh. '
+    m_InID: 244b3b34-e761-416c-81a8-11d4f38aa082
+    m_OutID: 3393c97d-e8c3-4b66-8dd1-ac3dce8098aa
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  - m_SpeakerName: 
+    m_Line: It is also said that his laugh causes people to combust.
+    m_InID: 4ddb6cd4-e775-4c5a-99dd-e30c185fd9fb
+    m_OutID: a3a88a67-352e-4da7-b366-86892c69da39
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+    PitchIndex: 0
+  Connections:
+  - m_InID: 9d414365-737e-4bc6-968d-ef0e467b70b4
+    m_OutID: cd42171a-b74b-4768-aa5f-1e2ced602060
+  - m_InID: c97024d1-8d24-4b91-84d7-f1f57d1f78be
+    m_OutID: 025474d5-b2e5-46b7-80e9-e2c844f13012
+  - m_InID: 244b3b34-e761-416c-81a8-11d4f38aa082
+    m_OutID: 7037b3f7-7a98-4ca4-aefc-0c68a99044f1
+  - m_InID: 4ddb6cd4-e775-4c5a-99dd-e30c185fd9fb
+    m_OutID: 3393c97d-e8c3-4b66-8dd1-ac3dce8098aa
+  Prompts: []

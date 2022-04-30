@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _MixtureMerchant
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Mixture Merchant
+    m_Line: Going into battle, are you?
+    m_InID: 6d1cc0a6-0424-4680-b90a-b4652c5b935e
+    m_OutID: 6137e712-a636-4f4e-b86d-ce168b899e87
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Mixture Merchant
+    m_Line: My potions would kill you, look elsewhere.
+    m_InID: 8ecc5f96-005d-412b-a83c-334e54c9f979
+    m_OutID: b78942c8-709c-4be1-bcbd-de8139d3c0a3
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Mixture Merchant
+    m_Line: They are for the strongest and you are of the weakest.
+    m_InID: 949f8f09-f9b6-4085-a10b-19f33331b02c
+    m_OutID: 9a0c7e3f-e902-4a54-b02f-e929d1b244df
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Mixture Merchant
+    m_Line: "Now begone knave, you\u2019re not welcome here."
+    m_InID: e7a235ad-1de0-440f-810d-edbc0516b8cb
+    m_OutID: 125198e3-81ef-43b2-9925-82d92fad1b23
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  Connections:
+  - m_InID: 8ecc5f96-005d-412b-a83c-334e54c9f979
+    m_OutID: 6137e712-a636-4f4e-b86d-ce168b899e87
+  - m_InID: 949f8f09-f9b6-4085-a10b-19f33331b02c
+    m_OutID: b78942c8-709c-4be1-bcbd-de8139d3c0a3
+  - m_InID: e7a235ad-1de0-440f-810d-edbc0516b8cb
+    m_OutID: 9a0c7e3f-e902-4a54-b02f-e929d1b244df
+  Prompts: []

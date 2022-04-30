@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _MixtureMerchant02
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Mixture Merchant
+    m_Line: Trying to get my potions are you?
+    m_InID: 13094321-6dfc-4095-a1dd-c04363af0629
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Mixture Merchant
+    m_Line: Nice try, but you are too weak for my potions.
+    m_InID: 53b615e6-0ddc-41e1-b516-76ed67cfadb2
+    m_OutID: f8e4c0b2-680c-4a30-a5c5-8138218bbed6
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Mixture Merchant
+    m_Line: You will never be strong enough to withstand them.
+    m_InID: 997ce622-41be-42fd-a75a-8842740d00d6
+    m_OutID: b3f49716-a195-45a6-be8c-6c72da64ce84
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  Connections:
+  - m_InID: 53b615e6-0ddc-41e1-b516-76ed67cfadb2
+    m_OutID: fce9c108-bb90-47b4-81df-0a1dd47a98cc
+  - m_InID: 997ce622-41be-42fd-a75a-8842740d00d6
+    m_OutID: f8e4c0b2-680c-4a30-a5c5-8138218bbed6
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Uhh..
+    m_OutID: fce9c108-bb90-47b4-81df-0a1dd47a98cc

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfSkillTreeEditorBranchNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SkillTreeEditorBranchNode>
+    <m_OutPoint>
+      <m_ID>e0cac962-9f47-448a-8f43-58d34fc24abd</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>0</m_PromptIndex>
+  </SkillTreeEditorBranchNode>
+  <SkillTreeEditorBranchNode>
+    <m_OutPoint>
+      <m_ID>07c0754a-0126-4a55-9025-c2681a04533e</m_ID>
+    </m_OutPoint>
+    <m_PromptIndex>1</m_PromptIndex>
+  </SkillTreeEditorBranchNode>
+</ArrayOfSkillTreeEditorBranchNode>

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _FoolishGhost
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Foolish Ghost
+    m_Line: "Yeah, I probably shouldn\u2019t have challenged that Kraklops to a breath
+      holding competition."
+    m_InID: b1df4fa3-8ed3-4ab1-9b62-60072d774bef
+    m_OutID: 10b07a80-329a-46f8-ae65-9c77d3cc1a24
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: Foolish Ghost
+    m_Line: "I\u2026 kinda forgot they have gills."
+    m_InID: bf1453dc-7037-481b-bae5-c98373ddbfe3
+    m_OutID: 2c89bb3f-4ab8-4866-ace4-f917b934d776
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: Foolish Ghost
+    m_Line: Oh well.
+    m_InID: c25b00ff-029d-498a-bdb3-dfd16d7230af
+    m_OutID: 489d4ed8-94ba-449a-a242-f2a36aef162a
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  Connections:
+  - m_InID: bf1453dc-7037-481b-bae5-c98373ddbfe3
+    m_OutID: 10b07a80-329a-46f8-ae65-9c77d3cc1a24
+  - m_InID: c25b00ff-029d-498a-bdb3-dfd16d7230af
+    m_OutID: 2c89bb3f-4ab8-4866-ace4-f917b934d776
+  Prompts: []

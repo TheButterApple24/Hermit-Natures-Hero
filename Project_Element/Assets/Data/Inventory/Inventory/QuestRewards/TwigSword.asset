@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d384aa08fe7b74fa04bb074eb55d4f, type: 3}
+  m_Name: TwigSword
+  m_EditorClassIdentifier: 
+  ItemID: 25
+  ItemName: TwigSword
+  ItemTitle: Unbreakable Branch
+  ItemDescription: A small branch snapped from the mystical being known as 'The Twig'.
+  ItemType: 0
+  ItemIcon: {fileID: 21300000, guid: 5b6aa0dc032721547970fbc63f9bea9c, type: 3}
+  ItemPrefab: {fileID: 2885295581572128640, guid: 482fd6a365fbf4e40a8a61ef50944af3, type: 3}

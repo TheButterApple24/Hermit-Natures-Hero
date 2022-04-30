@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _GraveKeeper
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Wereick
+    m_Line: "I don\u2019t steal from graves, why would you think that?"
+    m_InID: 1e26959c-d982-416d-8b49-5744841eb5d8
+    m_OutID: 62b0b200-b6f5-42f1-8198-84782e76f56d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 1
+  - m_SpeakerName: Wereick
+    m_Line: "I can\u2019t believe this, you have some nerve."
+    m_InID: 2f7004d5-fed6-45ba-ab38-d6cac38ac2c1
+    m_OutID: ff7f22dc-c11f-49b1-b90e-349b88cc8894
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 1
+  - m_SpeakerName: Wereick
+    m_Line: "Now let me get back to grave robbi\u2026"
+    m_InID: 9bb9effa-cdb3-458c-999f-04607ab75a7c
+    m_OutID: 6b779d00-be1e-4ff5-81a3-54e5a22bda83
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: Wereick
+    m_Line: "Keeping! Grave keeping\u2026 because I\u2019m the grave keeper."
+    m_InID: 4521520b-c380-47cc-8ee6-24dca557e1a4
+    m_OutID: e7605640-8632-45c6-aa7c-a905c1070b12
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 1
+  Connections:
+  - m_InID: 2f7004d5-fed6-45ba-ab38-d6cac38ac2c1
+    m_OutID: 62b0b200-b6f5-42f1-8198-84782e76f56d
+  - m_InID: 9bb9effa-cdb3-458c-999f-04607ab75a7c
+    m_OutID: ff7f22dc-c11f-49b1-b90e-349b88cc8894
+  - m_InID: 4521520b-c380-47cc-8ee6-24dca557e1a4
+    m_OutID: 6b779d00-be1e-4ff5-81a3-54e5a22bda83
+  Prompts: []

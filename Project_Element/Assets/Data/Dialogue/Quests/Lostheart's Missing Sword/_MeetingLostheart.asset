@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _MeetingLostheart
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: ???
+    m_Line: Ahoy, little one!
+    m_InID: e5439f16-141a-46a4-8f55-111aac868d99
+    m_OutID: 89d96f85-ad80-415a-a039-645606a7e296
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: ???
+    m_Line: I could use some help 'ere, nicked myself pretty bad on this sword I
+      made, my skills surprise even me!
+    m_InID: b199649d-d348-47e1-b4d1-a2ad3d5856dd
+    m_OutID: a7970c24-aa39-4235-be02-4d2b55126000
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: ???
+    m_Line: Could really use a health potion, I can't do my hammerin' in this sorry
+      state!
+    m_InID: b3a626cd-c3fa-458c-a53d-fc15ef7f1e3c
+    m_OutID: 8021cc72-2237-4934-8d94-ccb35f44537b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: ???
+    m_Line: BAH!
+    m_InID: 0ec3e5c6-59eb-48ad-ac66-00e46113a31c
+    m_OutID: dcc9af7e-23ba-453f-a2ce-3c22ee7165c7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Lostheart
+    m_Line: Sorry, name's Lostheart. Nice ta meetcha!
+    m_InID: 0d4f0b6b-fb63-42d2-9a41-544164920fab
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Lostheart
+    m_Line: Thanks for agreeing to help, these things can't hammer themselves, y'know!
+    m_InID: 7644077a-82b9-4cf5-9df4-be5d711981c4
+    m_OutID: cf61ef02-0c56-41f5-855f-6b8a9d294bd4
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: b199649d-d348-47e1-b4d1-a2ad3d5856dd
+    m_OutID: 89d96f85-ad80-415a-a039-645606a7e296
+  - m_InID: b3a626cd-c3fa-458c-a53d-fc15ef7f1e3c
+    m_OutID: a7970c24-aa39-4235-be02-4d2b55126000
+  - m_InID: 0ec3e5c6-59eb-48ad-ac66-00e46113a31c
+    m_OutID: 8021cc72-2237-4934-8d94-ccb35f44537b
+  - m_InID: 0d4f0b6b-fb63-42d2-9a41-544164920fab
+    m_OutID: dcc9af7e-23ba-453f-a2ce-3c22ee7165c7
+  - m_InID: 7644077a-82b9-4cf5-9df4-be5d711981c4
+    m_OutID: b19ee419-df2e-41ee-aeea-704e01ce3c4e
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: I'll get you a potion!
+    m_OutID: b19ee419-df2e-41ee-aeea-704e01ce3c4e

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: Friends
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Erica
+    m_Line: Hey, Tim, have you seen Lilac? She's been acting weird lately.
+    m_InID: 10313118-999f-4048-995d-baf147348c93
+    m_OutID: bcf0e412-53f2-4342-816f-dad1e0ebf38d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Tim
+    m_Line: Yeah, I think she was headed for the cultist monument?
+    m_InID: bc2dbe88-2614-4ea8-be01-15b78e93a653
+    m_OutID: 6bc711f3-b4bc-4e77-a862-b7516bbdcf05
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Tim
+    m_Line: She was saying something about 'revenge', I think.
+    m_InID: d7730b25-006b-470a-a564-74ba3d22a9a8
+    m_OutID: 5d2f3a45-6920-4534-b51c-faafc65c0d4d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Erica
+    m_Line: And you just let her go?! She's throwing her life away!
+    m_InID: 0a0b34c7-3962-4762-89a4-0d98f8439e55
+    m_OutID: fc861a97-398d-44bb-b70f-52489455a17b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 0
+  - m_SpeakerName: Tim
+    m_Line: I was busy eating my sandwich!
+    m_InID: 62b64fad-ad69-4219-a976-2548f46edb10
+    m_OutID: cf2e7f09-8e62-461c-b280-ea0d387f1348
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Erica
+    m_Line: Tim!
+    m_InID: bd75a52b-47ad-4275-b90d-a856b6987b4c
+    m_OutID: 8d18fdb2-0cf5-4203-b8cb-d91da4449dae
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 0
+  - m_SpeakerName: Tim
+    m_Line: Alright, alright. I'll help you get her back...
+    m_InID: cd7e69ac-c30c-43e1-823d-f91afcb968e5
+    m_OutID: 6011773a-10d5-4550-be4f-1a74e295c950
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Tim
+    m_Line: After I finish eating my sandwich.
+    m_InID: 31a876a8-8e00-4bd0-a9cc-306f98ac8177
+    m_OutID: 3ff7278d-cbfd-43ae-895c-017f1d128745
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  Connections:
+  - m_InID: bc2dbe88-2614-4ea8-be01-15b78e93a653
+    m_OutID: bcf0e412-53f2-4342-816f-dad1e0ebf38d
+  - m_InID: d7730b25-006b-470a-a564-74ba3d22a9a8
+    m_OutID: 6bc711f3-b4bc-4e77-a862-b7516bbdcf05
+  - m_InID: 0a0b34c7-3962-4762-89a4-0d98f8439e55
+    m_OutID: 5d2f3a45-6920-4534-b51c-faafc65c0d4d
+  - m_InID: 62b64fad-ad69-4219-a976-2548f46edb10
+    m_OutID: fc861a97-398d-44bb-b70f-52489455a17b
+  - m_InID: bd75a52b-47ad-4275-b90d-a856b6987b4c
+    m_OutID: cf2e7f09-8e62-461c-b280-ea0d387f1348
+  - m_InID: cd7e69ac-c30c-43e1-823d-f91afcb968e5
+    m_OutID: 8d18fdb2-0cf5-4203-b8cb-d91da4449dae
+  - m_InID: 31a876a8-8e00-4bd0-a9cc-306f98ac8177
+    m_OutID: 6011773a-10d5-4550-be4f-1a74e295c950
+  Prompts: []

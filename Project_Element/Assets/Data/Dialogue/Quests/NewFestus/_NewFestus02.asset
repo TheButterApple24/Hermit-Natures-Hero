@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _NewFestus02
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Brother Festus
+    m_Line: Trio bless you child!
+    m_InID: 491db2a6-662e-425e-b4a5-e73438c98631
+    m_OutID: 89bd0de4-14e0-4881-9c99-7fe8cd7b9dd7
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: Have you seen my brother by chance?
+    m_InID: d3fd97da-6a7b-4150-912c-4801f975c7eb
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: "That\u2019s alright, I\u2019m sure he\u2019ll be back one day."
+    m_InID: 419f2182-af5c-47c9-9b77-61ada7bfe5e2
+    m_OutID: 1ac074d6-00a3-4b05-8f7a-877392bde984
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: Brother Festus
+    m_Line: Take this, and thank you again!
+    m_InID: 666dede3-9e5f-4c2c-88b1-3335d94610d6
+    m_OutID: 523f1d33-aefe-45c0-a49e-a18e6235f7f0
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  Connections:
+  - m_InID: d3fd97da-6a7b-4150-912c-4801f975c7eb
+    m_OutID: 89bd0de4-14e0-4881-9c99-7fe8cd7b9dd7
+  - m_InID: 419f2182-af5c-47c9-9b77-61ada7bfe5e2
+    m_OutID: 389dda88-548e-4c31-a020-d1c35c7c4b86
+  - m_InID: 666dede3-9e5f-4c2c-88b1-3335d94610d6
+    m_OutID: 1ac074d6-00a3-4b05-8f7a-877392bde984
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: .....
+    m_OutID: 389dda88-548e-4c31-a020-d1c35c7c4b86

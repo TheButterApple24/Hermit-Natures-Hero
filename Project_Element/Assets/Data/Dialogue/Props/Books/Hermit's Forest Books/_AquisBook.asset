@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _AquisBook
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Aquis, the power of Water.
+    m_InID: 4bd850f2-64c0-43eb-9126-39a8bed319d8
+    m_OutID: 4efa4247-0b19-4bd8-a182-91e13d374e77
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: If someone is endowed with this strength, their swiftness improves significantly.
+    m_InID: a8f77181-3b3f-4182-b276-73cd9e5eaa05
+    m_OutID: 877af71c-e69a-4637-9f4e-d81f332dd946
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Skelaquis, the God of Water, can summon mighty tsunamis with a glance.
+      Most ships that get lost at sea are a result of this god directly.
+    m_InID: 8614f910-4de4-4df3-a5a1-2edbf4803816
+    m_OutID: ea6a876b-e9fa-44f4-b6b4-badc9c559138
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: a8f77181-3b3f-4182-b276-73cd9e5eaa05
+    m_OutID: 4efa4247-0b19-4bd8-a182-91e13d374e77
+  - m_InID: 8614f910-4de4-4df3-a5a1-2edbf4803816
+    m_OutID: 877af71c-e69a-4637-9f4e-d81f332dd946
+  Prompts: []

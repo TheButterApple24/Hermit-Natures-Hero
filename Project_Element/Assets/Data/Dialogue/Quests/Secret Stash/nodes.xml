@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorNode>
+    <m_Rect>
+      <x>380</x>
+      <y>272</y>
+      <position>
+        <x>380</x>
+        <y>272</y>
+      </position>
+      <center>
+        <x>480</x>
+        <y>297</y>
+      </center>
+      <min>
+        <x>380</x>
+        <y>272</y>
+      </min>
+      <max>
+        <x>580</x>
+        <y>322</y>
+      </max>
+      <width>200</width>
+      <height>50</height>
+      <size>
+        <x>200</x>
+        <y>50</y>
+      </size>
+      <xMin>380</xMin>
+      <yMin>272</yMin>
+      <xMax>580</xMax>
+      <yMax>322</yMax>
+    </m_Rect>
+    <m_HasPrompts>false</m_HasPrompts>
+    <m_InPoint>
+      <m_ID>a8069d98-1def-4424-89d7-953eed2e44e8</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>4bc05411-7ec4-47ca-ac73-bd56c5e37010</m_ID>
+    </m_OutPoint>
+    <m_Name />
+    <m_Line>You dug a hole and found TREASURE!!</m_Line>
+    <Emotion>5</Emotion>
+  </DialogueEditorNode>
+</ArrayOfDialogueEditorNode>

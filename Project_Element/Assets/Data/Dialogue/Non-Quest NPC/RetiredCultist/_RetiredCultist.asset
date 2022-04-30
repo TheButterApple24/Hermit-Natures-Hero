@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _RetiredCultist
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Angry Man
+    m_Line: How DARE you bring an element into my home?
+    m_InID: 8ca69eef-0de4-4830-b2a3-20ed4b8ff287
+    m_OutID: db7fffbd-1e92-43d0-b112-2d3122b9f5ce
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 1
+  - m_SpeakerName: Angry Man
+    m_Line: Haven't I been through enough? Just take my loot and leave me alone.
+    m_InID: 705d1fbe-87d9-4b00-a175-06f37b17908a
+    m_OutID: e7b4c267-54ef-4ac1-8ce4-abc6eff40d80
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 1
+  Connections:
+  - m_InID: 705d1fbe-87d9-4b00-a175-06f37b17908a
+    m_OutID: db7fffbd-1e92-43d0-b112-2d3122b9f5ce
+  Prompts: []

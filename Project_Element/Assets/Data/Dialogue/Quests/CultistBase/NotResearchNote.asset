@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: NotResearchNote
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: 'NOT A RESEARCH NOTE:'
+    m_InID: d926d549-e5f1-4841-a249-0719ba9477ad
+    m_OutID: 416f6ebd-e426-4379-9115-1b5bf7da7302
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Reliable sources have informed me that someone found the poltergeist
+      sword.
+    m_InID: 0ce7f6af-2bb7-45fb-8fdb-b14a780b45cb
+    m_OutID: 0237f9dd-e0ef-4ac7-9334-b393c6f5197d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: "And they\u2019re coming. If anyone finds this, run."
+    m_InID: 92e85c6e-11da-47af-9e9c-58036a860144
+    m_OutID: 8dc24205-cc20-4610-ad91-15e3e009d6f3
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Run and pray.
+    m_InID: 9b587632-34c2-40dc-9e59-764d6786750b
+    m_OutID: 85ca359e-e30c-455f-adac-325bba3f924e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 0ce7f6af-2bb7-45fb-8fdb-b14a780b45cb
+    m_OutID: 416f6ebd-e426-4379-9115-1b5bf7da7302
+  - m_InID: 92e85c6e-11da-47af-9e9c-58036a860144
+    m_OutID: 0237f9dd-e0ef-4ac7-9334-b393c6f5197d
+  - m_InID: 9b587632-34c2-40dc-9e59-764d6786750b
+    m_OutID: 8dc24205-cc20-4610-ad91-15e3e009d6f3
+  Prompts: []

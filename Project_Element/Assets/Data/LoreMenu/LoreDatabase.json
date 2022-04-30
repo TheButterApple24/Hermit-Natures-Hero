@@ -1,0 +1,314 @@
+
+{ "m_LoreDatas" :
+[
+{
+"category" : 0,
+"id" : 0,
+"imageIndex" : 0,
+"title" : "Basic Sword",
+"description" : "Sturdy and reliable. A trust-worthy companion. You can never go wrong with this blade."
+},
+{
+"category" : 0,
+"id" : 1,
+"imageIndex" : 1,
+"title" : "Dueling Sword",
+"description" : "Fast and agile. This light blade was forged to pierce even the strongest of foes."
+},
+{
+"category" : 0,
+"id" : 2,
+"imageIndex" : 2,
+"title" : "Heavy Sword",
+"description" : "Big and imposing. Its weight really helps it pack in a real punch."
+},
+{
+"category" : 1,
+"id" : 3,
+"imageIndex" : 3,
+"title" : "Hermit Armor",
+"description" : "Average and reliable. Crafted by hand by the Hermit themselves. (Increases Friendship Bond with pets by 5%)"
+},
+{
+"category" : 1,
+"id" : 4,
+"imageIndex" : 4,
+"title" : "Light Armor",
+"description" : "Delicate but nimble. This light armor was conceived for swifter movement and agility. Increases the Hermit's base Speed and Dash Speed by 5%"
+},
+{
+"category" : 1,
+"id" : 5,
+"imageIndex" : 5,
+"title" : "Heavy Armor",
+"description" : "Extremely durable. Made from the finest material and craftsmanship to resist damage from incoming attacks. Decreases the Hermit's base Speed and Dash Speed by 5%"
+},
+{
+"category" : 2,
+"id" : 6,
+"imageIndex" : 6,
+"title" : "Potion of Health",
+"description" : "Heals 20% of the Hermit's Max HP"
+},
+{
+"category" : 2,
+"id" : 7,
+"imageIndex" : 7,
+"title" : "Potion of Might",
+"description" : "Increases the Hermit's Attack Stat by 20%."
+},
+{
+"category" : 2,
+"id" : 8,
+"imageIndex" : 8,
+"title" : "Potion of Protection",
+"description" : "Increases the Hermit's Defense Stat by 20%."
+},
+{
+"category" : 2,
+"id" : 9,
+"imageIndex" : 9,
+"title" : "Potion of Vigor",
+"description" : "Increases the Hermit's Stamina Regeneration by 30%."
+},
+{
+"category" : 2,
+"id" : 10,
+"imageIndex" : 10,
+"title" : "Potion of Corrosion",
+"description" : "Imbues the Hermit's Weapon with a Poisonous substance, which applies up to 3 stacks of damage-over-time."
+},
+{
+"category" : 3,
+"id" : 11,
+"imageIndex" : 11,
+"title" : "Nurseblossom",
+"description" : "A deep red flower that's known for its healing properties. Gives off a calming aroma that's popular in incense. A common plant that's found in most areas on the islands."
+},
+{
+"category" : 3,
+"id" : 12,
+"imageIndex" : 12,
+"title" : "Sunpalm",
+"description" : "A highly versatile plant that thrives in sunlight. Has strong restorative qualities and is a popular ingredient with apothecaries."
+},
+{
+"category" : 3,
+"id" : 13,
+"imageIndex" : 13,
+"title" : "Bandit's Grace",
+"description" : "A round yellow flower that is said to boost energy when consumed. Another common flower that can be found in many locations throughout the islands."
+},
+{
+"category" : 3,
+"id" : 14,
+"imageIndex" : 14,
+"title" : "Golden Sweetberry",
+"description" : "A tall, winding plant that grows sweet golden berries. A common delicacy, Golden Sweetberries are filled with nutrients that enhance growth and strength."
+},
+{
+"category" : 3,
+"id" : 15,
+"imageIndex" : 15,
+"title" : "Moonpalm",
+"description" : "Sunpalm’s cool-coloured counterpart. Moonpalm prefers to grow in the shade and at night, away from the sun. It is equally as versatile as Sunpalm and is frequently used in strengthening tonics."
+},
+{
+"category" : 3,
+"id" : 16,
+"imageIndex" : 16,
+"title" : "Knightsbane",
+"description" : "A deep blue flower similar in shape to Bandit’s Grace. Knightsbane is a hardy plant that can survive in even the harshest climates. The flowers are said to strengthen your immune system."
+},
+{
+"category" : 3,
+"id" : 17,
+"imageIndex" : 17,
+"title" : "Poisonwort",
+"description" : "A bulbous, multicoloured plant that gives off an unpleasant odour to disgust any hungry herbivore. Grows in wet or swampy areas."
+},
+{
+"category" : 3,
+"id" : 18,
+"imageIndex" : 18,
+"title" : "Witchberry",
+"description" : "Be careful not to mistaken these are Golden Sweetberries, as Witchberries are extremely poisonous. Its vibrant purple colour shall hopefully deter those who try to consume it."
+},
+{
+"category" : 4,
+"id" : 19,
+"imageIndex" : 19,
+"title" : "Hermits Forest",
+"description" : "The forest where the Hermit was born. Away from all conflict the Hermit lives a much simpler life, fishing and living on their own."
+},
+{
+"category" : 4,
+"id" : 20,
+"imageIndex" : 20,
+"title" : "Town",
+"description" : "A nearby town that houses a ton of Villagers. Well known for its gamenight where they play, Castles and Cultists."
+},
+{
+"category" : 4,
+"id" : 21,
+"imageIndex" : 21,
+"title" : "Cultist Statue",
+"description" : "A giant statue of the Cultists. Commonly used for worshipping purposes."
+},
+{
+"category" : 4,
+"id" : 22,
+"imageIndex" : 22,
+"title" : "Cultist Camp",
+"description" : "A camp where the culists hang out and do nerfarious experiements on the creatures."
+},
+{
+"category" : 5,
+"id" : 23,
+"imageIndex" : 23,
+"title" : "Notable NPC",
+"description" : "Imma need someone else to fill this out haha."
+},
+{
+"category" : 6,
+"id" : 24,
+"imageIndex" : 24,
+"title" : "Fruti",
+"description" : "A common creature with the appearence of common fruits, to blend in and ambush their prey. They help villagers keep pests away from their crops."
+},
+{
+"category" : 7,
+"id" : 25,
+"imageIndex" : 25,
+"title" : "Fire Cultist",
+"description" : "A cultist that enjoy's fire?"
+},
+{
+"category" : 7,
+"id" : 26,
+"imageIndex" : 26,
+"title" : "Plant Cultist",
+"description" : "A cultist that enjoy's planting?"
+},
+{
+"category" : 0,
+"id" : 27,
+"imageIndex" : 27,
+"title" : "Rusty Sword",
+"description" : "Heavily damaged by rust. Hopefully it wont snap in half."
+},
+{
+"category" : 0,
+"id" : 28,
+"imageIndex" : 28,
+"title" : "Steel Sword",
+"description" : "Forged by the skilled hands of a master craftsman."
+},
+{
+"category" : 0,
+"id" : 29,
+"imageIndex" : 29,
+"title" : "Wooden Sword",
+"description" : "Used mainly for sparring. Be careful of the splinters."
+},
+{
+"category" : 0,
+"id" : 30,
+"imageIndex" : 30,
+"title" : "Onyx Sword",
+"description" : "Cursed by the Gods and excited to shed the blood of their followers."
+},
+{
+"category" : 0,
+"id" : 31,
+"imageIndex" : 31,
+"title" : "Haunted Sword",
+"description" : "It's almost as if it has chosen you to be its owner."
+},
+{
+"category" : 0,
+"id" : 32,
+"imageIndex" : 32,
+"title" : "Old Sword",
+"description" : "Discarded by its previous owner."
+},
+{
+"category" : 0,
+"id" : 33,
+"imageIndex" : 33,
+"title" : "Tempered Sword",
+"description" : "A classic, go-to weapon used throughout the archipelago."
+},
+{
+"category" : 0,
+"id" : 34,
+"imageIndex" : 34,
+"title" : "Training Sword",
+"description" : "A carpenter's handywork, sanded down smooth."
+},
+{
+"category" : 0,
+"id" : 35,
+"imageIndex" : 35,
+"title" : "Ebony Sword",
+"description" : "This weapon hungers for the crimson blood of the evil. Well, any blood really."
+},
+{
+"category" : 0,
+"id" : 36,
+"imageIndex" : 36,
+"title" : "Phantom Sword",
+"description" : "It is rumoured that it contains the souls of fallen creatures, lost in battle."
+},
+{
+"category" : 7,
+"id" : 37,
+"imageIndex" : 37,
+"title" : "Water Cultist",
+"description" : "A cultist that enjoy's swimming?"
+},
+{
+"category" : 4,
+"id" : 38,
+"imageIndex" : 38,
+"title" : "Cultist HQ",
+"description" : "The HQ where there are a grand amount of cultists."
+},
+{
+"category" : 6,
+"id" : 39,
+"imageIndex" : 39,
+"title" : "Lupent",
+"description" : "A crimson serprent that sprouts into a wolf head. Can see heat in the air even without openign its eyes. Likes to chase it's own tail."
+},
+{
+"category" : 6,
+"id" : 40,
+"imageIndex" : 40,
+"title" : "Kraklops",
+"description" : "Hyperactive and playful, Kraklops' enjoys moving on land or water whenever possible. Uses tentacles at it's side to move and can shoot water from it's beak."
+},
+{
+"category" : 6,
+"id" : 41,
+"imageIndex" : 41,
+"title" : "Feuradile",
+"description" : "A panther body that extends into reptilian features. Very excitable and loving, Feuradiles can produce a laughter when amused."
+},
+{
+"category" : 6,
+"id" : 42,
+"imageIndex" : 42,
+"title" : "Gorp",
+"description" : "A sweet (raw beef) smelling, sentient plant creature that produces noises similar to it's species name. Each Gorp shares a similar personality and behaviours."
+},
+{
+"category" : 6,
+"id" : 43,
+"imageIndex" : 43,
+"title" : "Medura",
+"description" : "An aquatic feline with seperants growing out of it's mane. A proud and strong species, prone to boredom and isolation."
+}
+
+]
+}

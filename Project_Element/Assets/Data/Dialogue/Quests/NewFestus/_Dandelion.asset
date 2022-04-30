@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Dandelion
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Dandelion
+    m_Line: "Sacred Tome? Yeah, I\u2019ve heard of it."
+    m_InID: 5f14e28a-f57e-4eba-a2c3-38a3acf98e3b
+    m_OutID: 5b1151ed-c47e-4be9-a2bf-bf7b11a6224b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Dandelion
+    m_Line: Some wild man came here and was shouting about it, telling people to
+      not look at him.
+    m_InID: 41c196b7-7560-4499-a755-d1831c444592
+    m_OutID: be94fca3-172b-411a-b8d2-06467ce1425a
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Dandelion
+    m_Line: He tore all his clothes off and ran towards the graveyard.
+    m_InID: c6504bee-a9e9-483b-8e09-49126c2816bb
+    m_OutID: 451bbbc0-f3ac-403e-b928-5d076ffc7635
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Dandelion
+    m_Line: Have to admit, he had some nice cheeks.
+    m_InID: fdceadb4-7a62-4341-877b-e11875b85c3f
+    m_OutID: 4ace4127-6271-4139-b644-6aefc9cf806b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: 41c196b7-7560-4499-a755-d1831c444592
+    m_OutID: 5b1151ed-c47e-4be9-a2bf-bf7b11a6224b
+  - m_InID: c6504bee-a9e9-483b-8e09-49126c2816bb
+    m_OutID: be94fca3-172b-411a-b8d2-06467ce1425a
+  - m_InID: fdceadb4-7a62-4341-877b-e11875b85c3f
+    m_OutID: 451bbbc0-f3ac-403e-b928-5d076ffc7635
+  Prompts: []

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Ghost
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: ???
+    m_Line: "Yikes! That was a nasty spill you\u2019ve taken! The fact that you can
+      see me proves that."
+    m_InID: b490cea1-7bb6-4e22-ae89-3aefb41380c0
+    m_OutID: b16d028b-82f4-4651-b4df-da9180d6867c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: ???
+    m_Line: "Enough about the severe head trauma you\u2019ve experienced though..."
+    m_InID: 80022628-1a18-4e2e-99ae-3a1a515ecd8a
+    m_OutID: 6b84c82e-06cc-4ffd-a571-7eecd3682818
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: ???
+    m_Line: "Your home\u2026 OUR home, it\u2019s in danger!"
+    m_InID: 1b3b1619-616c-4227-baa9-d9f452c8ffc5
+    m_OutID: 3d48d42c-76fd-4c9f-b9d2-36aaaaf5e30c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: ???
+    m_Line: "You can\u2019t sit by and let this happen! "
+    m_InID: 2526fa25-1ae1-4e16-9ac2-60dec2cd5b61
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: ???
+    m_Line: Head up the trail and send those intruders here, to the astral plane.
+    m_InID: f5faac0f-18e7-493d-bc68-0fa2973be76a
+    m_OutID: 3f7738cb-10ea-4b74-aa59-3819db2e7f81
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: ???
+    m_Line: Oh, and use these red and orange plants to make a health potion!
+    m_InID: ad62688c-8a2c-4ced-8a1c-c899ed3a3030
+    m_OutID: 882e9398-86c7-49e1-9145-d7018925854b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: ???
+    m_Line: You have more pressing matters to attend to.
+    m_InID: cb6f055a-33c8-4709-881b-ef34129e6968
+    m_OutID: 1c068335-e89c-484c-bdff-6ff8ad0b90cb
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: ???
+    m_Line: "I\u2019d love to give them a piece of my mind too!"
+    m_InID: 62c2e157-a283-413f-be73-60cc48b72aaf
+    m_OutID: 72e0b07d-6209-4fca-ba94-cdcb240b450d
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  Connections:
+  - m_InID: 80022628-1a18-4e2e-99ae-3a1a515ecd8a
+    m_OutID: b16d028b-82f4-4651-b4df-da9180d6867c
+  - m_InID: 2526fa25-1ae1-4e16-9ac2-60dec2cd5b61
+    m_OutID: 3d48d42c-76fd-4c9f-b9d2-36aaaaf5e30c
+  - m_InID: f5faac0f-18e7-493d-bc68-0fa2973be76a
+    m_OutID: e4bbc594-4de4-4b93-813f-4b00f1ea77d9
+  - m_InID: cb6f055a-33c8-4709-881b-ef34129e6968
+    m_OutID: 6b84c82e-06cc-4ffd-a571-7eecd3682818
+  - m_InID: 1b3b1619-616c-4227-baa9-d9f452c8ffc5
+    m_OutID: 1c068335-e89c-484c-bdff-6ff8ad0b90cb
+  - m_InID: ad62688c-8a2c-4ced-8a1c-c899ed3a3030
+    m_OutID: 72e0b07d-6209-4fca-ba94-cdcb240b450d
+  - m_InID: 62c2e157-a283-413f-be73-60cc48b72aaf
+    m_OutID: 3f7738cb-10ea-4b74-aa59-3819db2e7f81
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Uh huh!
+    m_OutID: e4bbc594-4de4-4b93-813f-4b00f1ea77d9

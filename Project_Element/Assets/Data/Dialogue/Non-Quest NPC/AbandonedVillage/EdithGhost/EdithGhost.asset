@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: EdithGhost
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Ghost
+    m_Line: ...You can see me?
+    m_InID: 0fef9b4e-854b-40fc-80c9-a6fd2c341776
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: Oh... nobody has seen me in a long time.
+    m_InID: c3202de0-16b8-473f-a0a0-1abb42826388
+    m_OutID: c326a20c-9e3d-4f7e-a19f-fafc8506fa28
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: I feel a bit unprepared. What is your name?
+    m_InID: b77623aa-7239-4dbe-93ff-03ed08b0e6d8
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 1
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: Hermit? That's a lovely name.
+    m_InID: bf7243a7-f3f3-458f-bd2f-eb412c8e5ee5
+    m_OutID: b3be518c-4cfe-4a60-b604-6d356c074fad
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: I seem to have forgotten my name. I've forgotten quite a bit.
+    m_InID: 88aa9a2e-b0bf-46c3-954d-d2fa15f0d2b5
+    m_OutID: 936df275-2248-4e7f-9c8d-df58667176a2
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: Could we talk for a little longer? I feel... at ease with somebody else
+      here.
+    m_InID: 453aecf8-adc4-41b1-a00a-d27d113133b4
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 2
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: Ah, I understand. If you change your mind, I will be here.
+    m_InID: f87e9fe5-ab34-442e-8f36-897ba1fb7550
+    m_OutID: efe147fe-b048-448e-af05-a5e64b8cc47a
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: Oh, thank you!
+    m_InID: 0e724ce5-59c0-4656-86ef-a4e6963f0fb7
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 1
+    m_PromptStartNumber: 4
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: I can't remember much, just... feelings.
+    m_InID: 5dd2c1d9-c8c0-44a0-ad0f-b4ade03c4ca5
+    m_OutID: 357265d8-6217-42e8-ab3b-e788b6c5bfc6
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: I remember a searing heat, hotter than anything I felt before.
+    m_InID: 14e09506-89c5-4e97-8032-5d74facf7aa4
+    m_OutID: 5fd2c198-add2-4b91-bff3-4ffe886515bd
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: I have a feeling of ease whenever I sit at this tree.
+    m_InID: c7623c23-11bb-4826-91ae-2d1563ebc046
+    m_OutID: 5478172d-3bca-481e-b314-ee158f2e3f8e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: And, more than anything, I have the burning desire to protect the man
+      in that house.
+    m_InID: 396ff212-924a-43b6-ab3a-8056935fd258
+    m_OutID: 2e43a272-63f2-4db5-b7c1-3fd26e423ef5
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: I can't explain it, but saying it out loud to somebody makes me feel
+      a lot better.
+    m_InID: 24f48dc8-1426-403b-9b80-83bafb4ecd95
+    m_OutID: 73396cef-1a43-4fc6-ba04-443c0169b5e8
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: Perhaps with time, I'll figure everything out. I haven't been... like
+      this for very long.
+    m_InID: 3d84d656-6910-44d8-ba99-4bfecc565b76
+    m_OutID: 9b929dc2-555b-4f91-aae2-088167b3bd17
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: Thank you for listening to me. It eased a lot of my sadness.
+    m_InID: 8a31408e-80db-4164-bc0d-8076552c8e1a
+    m_OutID: 9c43b898-a0bb-4e0b-b567-ad955d7e9f7b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Ghost
+    m_Line: I hope you come back and visit again.
+    m_InID: 89b48b0c-a497-4a9c-a8f9-123f1483e0ea
+    m_OutID: 10a7cc04-c48f-4074-8bf1-19a617147dbc
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: c3202de0-16b8-473f-a0a0-1abb42826388
+    m_OutID: e6431450-ff25-4d74-89a7-e038c4df54f1
+  - m_InID: b77623aa-7239-4dbe-93ff-03ed08b0e6d8
+    m_OutID: c326a20c-9e3d-4f7e-a19f-fafc8506fa28
+  - m_InID: bf7243a7-f3f3-458f-bd2f-eb412c8e5ee5
+    m_OutID: 52797bcf-024d-4496-923b-560bb5d3c37d
+  - m_InID: 88aa9a2e-b0bf-46c3-954d-d2fa15f0d2b5
+    m_OutID: b3be518c-4cfe-4a60-b604-6d356c074fad
+  - m_InID: 453aecf8-adc4-41b1-a00a-d27d113133b4
+    m_OutID: 936df275-2248-4e7f-9c8d-df58667176a2
+  - m_InID: f87e9fe5-ab34-442e-8f36-897ba1fb7550
+    m_OutID: 9224dc01-f4ee-46a0-ae60-23d3c2be9f36
+  - m_InID: 0e724ce5-59c0-4656-86ef-a4e6963f0fb7
+    m_OutID: 9fd42e92-fc47-4ac5-bc6d-108dca51db6b
+  - m_InID: 5dd2c1d9-c8c0-44a0-ad0f-b4ade03c4ca5
+    m_OutID: a5b93c33-71e3-4153-a81e-c943cd52ffd2
+  - m_InID: 14e09506-89c5-4e97-8032-5d74facf7aa4
+    m_OutID: 357265d8-6217-42e8-ab3b-e788b6c5bfc6
+  - m_InID: c7623c23-11bb-4826-91ae-2d1563ebc046
+    m_OutID: 5fd2c198-add2-4b91-bff3-4ffe886515bd
+  - m_InID: 396ff212-924a-43b6-ab3a-8056935fd258
+    m_OutID: 5478172d-3bca-481e-b314-ee158f2e3f8e
+  - m_InID: 24f48dc8-1426-403b-9b80-83bafb4ecd95
+    m_OutID: 2e43a272-63f2-4db5-b7c1-3fd26e423ef5
+  - m_InID: 3d84d656-6910-44d8-ba99-4bfecc565b76
+    m_OutID: 73396cef-1a43-4fc6-ba04-443c0169b5e8
+  - m_InID: 8a31408e-80db-4164-bc0d-8076552c8e1a
+    m_OutID: 9b929dc2-555b-4f91-aae2-088167b3bd17
+  - m_InID: 89b48b0c-a497-4a9c-a8f9-123f1483e0ea
+    m_OutID: 9c43b898-a0bb-4e0b-b567-ad955d7e9f7b
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: I can see you
+    m_OutID: e6431450-ff25-4d74-89a7-e038c4df54f1
+  - m_PromptIndex: 1
+    m_Line: I'm the Hermit
+    m_OutID: 52797bcf-024d-4496-923b-560bb5d3c37d
+  - m_PromptIndex: 2
+    m_Line: I can stick around.
+    m_OutID: 9fd42e92-fc47-4ac5-bc6d-108dca51db6b
+  - m_PromptIndex: 3
+    m_Line: I'm sorry, I'm busy.
+    m_OutID: 9224dc01-f4ee-46a0-ae60-23d3c2be9f36
+  - m_PromptIndex: 4
+    m_Line: What do you remember?
+    m_OutID: a5b93c33-71e3-4153-a81e-c943cd52ffd2

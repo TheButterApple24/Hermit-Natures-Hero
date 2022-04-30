@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: TutorialGhost
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: ???
+    m_Line: "Yikes! That was a nasty spill you\u2019ve taken!"
+    m_InID: 6dbb5ab7-5117-4838-bd7c-da9052ba557e
+    m_OutID: 86c2b1a2-08a8-410a-a8f6-2bf70dc82a33
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+    PitchIndex: 2
+  - m_SpeakerName: ???
+    m_Line: I'm surprised your skull is still in one piece!
+    m_InID: 2a3c6c63-e1b4-4271-a724-e56c1ef27984
+    m_OutID: 30a9ef77-e849-436e-a25b-1a765f095f61
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: ???
+    m_Line: You should craft a potion with those red and orange plants there.
+    m_InID: 46d7d410-4c5f-421b-b3aa-bbbb3e9555f3
+    m_OutID: 242adac8-c845-4899-a0d4-8254cd4c48dc
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: ???
+    m_Line: Once that's done, head up the trail behind me and reclaim your home.
+    m_InID: 1df5860d-46ef-4d44-be3b-808a7d0af205
+    m_OutID: 8d8e0322-6d1f-4ec2-a357-a83dadeee722
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: ???
+    m_Line: Those filthy cultists deserve all the punishment you'll deal them, dont
+      worry.
+    m_InID: caf85b33-847e-4324-acd3-211a604e7c67
+    m_OutID: df0553dd-5a1b-43c6-a05f-3fbc41a0fa0e
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 2
+  Connections:
+  - m_InID: 2a3c6c63-e1b4-4271-a724-e56c1ef27984
+    m_OutID: 86c2b1a2-08a8-410a-a8f6-2bf70dc82a33
+  - m_InID: 46d7d410-4c5f-421b-b3aa-bbbb3e9555f3
+    m_OutID: 30a9ef77-e849-436e-a25b-1a765f095f61
+  - m_InID: 1df5860d-46ef-4d44-be3b-808a7d0af205
+    m_OutID: 242adac8-c845-4899-a0d4-8254cd4c48dc
+  - m_InID: caf85b33-847e-4324-acd3-211a604e7c67
+    m_OutID: 8d8e0322-6d1f-4ec2-a357-a83dadeee722
+  Prompts: []

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d384aa08fe7b74fa04bb074eb55d4f, type: 3}
+  m_Name: ShovelSword
+  m_EditorClassIdentifier: 
+  ItemID: 22
+  ItemName: ShovelSword
+  ItemTitle: Shovel Sword
+  ItemDescription: A gift from Vacation Cultist who no longer needed it. Can deal
+    groundbreaking injuries.
+  ItemType: 0
+  ItemIcon: {fileID: 21300000, guid: 441fa9403e2299a4b9abfb59091a7cfd, type: 3}
+  ItemPrefab: {fileID: 4053021367186001014, guid: df28d7cb523ffe343b570f1e4f84a03d, type: 3}

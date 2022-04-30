@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _TestSounds
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Jeffrey
+    m_Line: Hi there!
+    m_InID: 54a1372d-5ca9-4e19-9069-2ade3057201a
+    m_OutID: 663567e5-5b0f-417f-a4f4-68bbe7fbb48a
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+  - m_SpeakerName: Jeffrey
+    m_Line: Sad!
+    m_InID: bb2037f3-8a0c-41f6-805e-7e3d4b861539
+    m_OutID: eb4e6d00-11f3-479d-811c-34cda5a5bdca
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+  - m_SpeakerName: Jeffrey
+    m_Line: Happy!
+    m_InID: 6c8fb674-c690-4a93-b732-2a7755177cda
+    m_OutID: dff46f19-d5ee-4457-aa60-ccf531a6573b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+  - m_SpeakerName: Jeffrey
+    m_Line: Fear!
+    m_InID: 3d2d3719-1ee3-4b3c-b59a-dd54a61bd98a
+    m_OutID: 09275ba0-f954-4edf-8f04-bc1ac7db7105
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Jeffrey
+    m_Line: Anger!
+    m_InID: 3e134fce-7c39-4d2f-9498-15c5a2525880
+    m_OutID: b7ba9d43-1640-4430-a56a-31861f42d82b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+  - m_SpeakerName: Jeffrey
+    m_Line: None!
+    m_InID: b7ca9c5b-eb97-4c06-ad8d-f099ced8379f
+    m_OutID: d225d10f-9ca4-4326-8dae-9d82996435c9
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: bb2037f3-8a0c-41f6-805e-7e3d4b861539
+    m_OutID: 663567e5-5b0f-417f-a4f4-68bbe7fbb48a
+  - m_InID: 6c8fb674-c690-4a93-b732-2a7755177cda
+    m_OutID: eb4e6d00-11f3-479d-811c-34cda5a5bdca
+  - m_InID: 3d2d3719-1ee3-4b3c-b59a-dd54a61bd98a
+    m_OutID: dff46f19-d5ee-4457-aa60-ccf531a6573b
+  - m_InID: 3e134fce-7c39-4d2f-9498-15c5a2525880
+    m_OutID: 09275ba0-f954-4edf-8f04-bc1ac7db7105
+  - m_InID: b7ca9c5b-eb97-4c06-ad8d-f099ced8379f
+    m_OutID: b7ba9d43-1640-4430-a56a-31861f42d82b
+  Prompts: []

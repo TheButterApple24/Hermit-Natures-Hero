@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Dyna
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Dyna
+    m_Line: When the cults took over, most people fled.
+    m_InID: 6d0d6f16-18ed-4019-9ee7-558d9e3f901b
+    m_OutID: 57fc177d-07f0-4ce7-a95f-b9f0a4e9805b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Dyna
+    m_Line: Not me though.
+    m_InID: 436a728f-ee1e-4e60-a210-03f16f83d859
+    m_OutID: 57fd8093-1c75-4f58-81c2-69ac93a08117
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Dyna
+    m_Line: "No one\u2019s scaring me into hiding, no way!"
+    m_InID: 41d9ab58-7176-4fde-a980-e449a3695dc8
+    m_OutID: 8ac0d324-afa9-4e73-ac68-307fd798d881
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 2
+  - m_SpeakerName: Dyna
+    m_Line: I'm going to keep marching till my legs give out.
+    m_InID: 11c03cfd-e8cb-4e9d-afa2-c1a9468eda14
+    m_OutID: 4ae358ab-539d-4a14-87a9-7a785528f4df
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: 436a728f-ee1e-4e60-a210-03f16f83d859
+    m_OutID: 57fc177d-07f0-4ce7-a95f-b9f0a4e9805b
+  - m_InID: 41d9ab58-7176-4fde-a980-e449a3695dc8
+    m_OutID: 57fd8093-1c75-4f58-81c2-69ac93a08117
+  - m_InID: 11c03cfd-e8cb-4e9d-afa2-c1a9468eda14
+    m_OutID: 8ac0d324-afa9-4e73-ac68-307fd798d881
+  Prompts: []

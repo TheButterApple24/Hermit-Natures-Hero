@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorNode>
+    <m_Rect>
+      <x>259</x>
+      <y>119</y>
+      <position>
+        <x>259</x>
+        <y>119</y>
+      </position>
+      <center>
+        <x>359</x>
+        <y>144</y>
+      </center>
+      <min>
+        <x>259</x>
+        <y>119</y>
+      </min>
+      <max>
+        <x>459</x>
+        <y>169</y>
+      </max>
+      <width>200</width>
+      <height>50</height>
+      <size>
+        <x>200</x>
+        <y>50</y>
+      </size>
+      <xMin>259</xMin>
+      <yMin>119</yMin>
+      <xMax>459</xMax>
+      <yMax>169</yMax>
+    </m_Rect>
+    <m_HasPrompts>false</m_HasPrompts>
+    <m_InPoint>
+      <m_ID>7d98fe6a-c44e-441a-a3f7-088457706e0b</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>875c4160-7eb2-4ce5-863d-4d8e9cdb80cb</m_ID>
+    </m_OutPoint>
+    <m_Name />
+    <m_Line>Morning prayers and sacrifices to Skelaquis at dawn every day. Newcomers Welcome!</m_Line>
+    <Emotion>5</Emotion>
+  </DialogueEditorNode>
+</ArrayOfDialogueEditorNode>

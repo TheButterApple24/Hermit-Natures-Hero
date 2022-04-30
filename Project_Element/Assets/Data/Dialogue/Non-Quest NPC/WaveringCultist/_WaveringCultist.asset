@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _WaveringCultist
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Wavering Cultist
+    m_Line: "I don\u2019t know why, but I feel like Ignis-Hrol doesn\u2019t have
+      our best interest at heart."
+    m_InID: db989e2c-3a16-46a3-bab2-3c39ca528f0c
+    m_OutID: 954c7a46-6a00-4d90-845b-2ba71454d700
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 3
+    PitchIndex: 0
+  - m_SpeakerName: Wavering Cultist
+    m_Line: "\u201CSET YOURSELF ON FIRE!\u201D"
+    m_InID: 19c6b1b5-7f37-40ef-b3f1-046fcccb1eaf
+    m_OutID: bcb527d8-ae2d-4c8f-a084-1628b732f969
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 4
+    PitchIndex: 2
+  - m_SpeakerName: Wavering Cultist
+    m_Line: Does that sound like a God that cares about you?
+    m_InID: a8b4d3b1-a1b8-4b97-a9e2-9933313f5d17
+    m_OutID: 395a1a32-aed1-4eef-b4f7-d25cb2bd8d5c
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 0
+  - m_SpeakerName: Wavering Cultist
+    m_Line: "Skelaquis on the other hand, now that\u2019s a God I can get behind!"
+    m_InID: 5517317f-6c10-4c85-a325-e920198cf823
+    m_OutID: 36b9f9a9-cf19-40fb-8d6e-36abf234f96b
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 0
+  Connections:
+  - m_InID: 19c6b1b5-7f37-40ef-b3f1-046fcccb1eaf
+    m_OutID: 954c7a46-6a00-4d90-845b-2ba71454d700
+  - m_InID: a8b4d3b1-a1b8-4b97-a9e2-9933313f5d17
+    m_OutID: bcb527d8-ae2d-4c8f-a084-1628b732f969
+  - m_InID: 5517317f-6c10-4c85-a325-e920198cf823
+    m_OutID: 395a1a32-aed1-4eef-b4f7-d25cb2bd8d5c
+  Prompts: []

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Aquis
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Wash me home, wash me home. Let me crew be washed back home.
+    m_InID: 62a41220-7467-46ad-b7a2-f97931f76e7a
+    m_OutID: bb5437b2-0a62-47c2-ad56-4df576cb1493
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Didn't I pay enough for you? Why O why does that wave close in?
+    m_InID: 2bdf8474-5f02-482f-a081-d8e3e5987102
+    m_OutID: ce209c58-ac88-419b-b525-2a9c3774a68f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Skelaquis! Skelaquis!
+    m_InID: 4d1e9e5f-8d0d-4e6e-89fe-d31aec62672a
+    m_OutID: 1293be77-54de-42f1-beb8-abc3af5b4d62
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Let my family mourn.
+    m_InID: 138f64c4-59d7-4f2c-8d25-418ce87f539a
+    m_OutID: c2acde33-0e70-451e-a668-70486be9ca66
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: 2bdf8474-5f02-482f-a081-d8e3e5987102
+    m_OutID: bb5437b2-0a62-47c2-ad56-4df576cb1493
+  - m_InID: 4d1e9e5f-8d0d-4e6e-89fe-d31aec62672a
+    m_OutID: ce209c58-ac88-419b-b525-2a9c3774a68f
+  - m_InID: 138f64c4-59d7-4f2c-8d25-418ce87f539a
+    m_OutID: 1293be77-54de-42f1-beb8-abc3af5b4d62
+  Prompts: []

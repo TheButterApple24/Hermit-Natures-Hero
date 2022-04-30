@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorNode>
+    <m_Rect>
+      <x>186</x>
+      <y>103</y>
+      <position>
+        <x>186</x>
+        <y>103</y>
+      </position>
+      <center>
+        <x>286</x>
+        <y>128</y>
+      </center>
+      <min>
+        <x>186</x>
+        <y>103</y>
+      </min>
+      <max>
+        <x>386</x>
+        <y>153</y>
+      </max>
+      <width>200</width>
+      <height>50</height>
+      <size>
+        <x>200</x>
+        <y>50</y>
+      </size>
+      <xMin>186</xMin>
+      <yMin>103</yMin>
+      <xMax>386</xMax>
+      <yMax>153</yMax>
+    </m_Rect>
+    <m_HasPrompts>false</m_HasPrompts>
+    <m_InPoint>
+      <m_ID>4f0dfeb1-387d-4398-a1cf-7436a6f80e54</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>7a612a2a-4357-47f6-bef6-0c2ef67ef5f5</m_ID>
+    </m_OutPoint>
+    <m_Name />
+    <m_Line>Church of the Trio</m_Line>
+    <Emotion>5</Emotion>
+  </DialogueEditorNode>
+</ArrayOfDialogueEditorNode>

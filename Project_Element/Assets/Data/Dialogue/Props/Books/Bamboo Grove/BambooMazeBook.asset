@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: BambooMazeBook
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: You pick up the book, which appears to be a daily journal.
+    m_InID: 97848034-1b39-489a-bb8b-7d8caca8b714
+    m_OutID: 9b5cc160-f963-4b85-aa01-bc4b738ffe49
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Diary
+    m_Line: 'Day 15: All this bamboo is making me go crazy.'
+    m_InID: d38e95b4-0dfd-488e-bde1-2eb33e7fb095
+    m_OutID: a7ef2e15-3ece-48ae-9c7a-870afa722415
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Diary
+    m_Line: I can't make out an exit to save my life.
+    m_InID: 3b9d639e-df79-4e93-92f6-5172f326da04
+    m_OutID: 84308458-d5f1-4804-a2e1-5d0fba49fe2f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: Diary
+    m_Line: If you read this, please be careful!
+    m_InID: 23aaf2fb-57e6-468d-aa73-08a7d38aaf92
+    m_OutID: 896a2c09-6ed0-416a-ab82-0ea0c14a9792
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: d38e95b4-0dfd-488e-bde1-2eb33e7fb095
+    m_OutID: 9b5cc160-f963-4b85-aa01-bc4b738ffe49
+  - m_InID: 3b9d639e-df79-4e93-92f6-5172f326da04
+    m_OutID: a7ef2e15-3ece-48ae-9c7a-870afa722415
+  - m_InID: 23aaf2fb-57e6-468d-aa73-08a7d38aaf92
+    m_OutID: 84308458-d5f1-4804-a2e1-5d0fba49fe2f
+  Prompts: []

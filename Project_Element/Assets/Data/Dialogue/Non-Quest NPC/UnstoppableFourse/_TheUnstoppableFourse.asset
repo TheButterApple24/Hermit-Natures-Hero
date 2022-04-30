@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _TheUnstoppableFourse
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Fourse
+    m_Line: You think physics can stop me?
+    m_InID: c2fe810a-9e54-41b7-a3de-87b6dd1c58b5
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Fourse
+    m_Line: Hehehe
+    m_InID: b54a09aa-2020-438d-8a01-062edd590e9f
+    m_OutID: 9f5a2bd1-4eaf-4a92-aabc-ef4f93850f21
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Fourse
+    m_Line: Don't make me laugh!
+    m_InID: c3584426-50c8-48e5-93b1-df6c7b6d089d
+    m_OutID: 9ed78f83-a213-4f81-a6d7-9f02b84bcc6f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  - m_SpeakerName: Fourse
+    m_Line: Finally, another sane person around here!
+    m_InID: a6bab643-db13-4dee-bbfc-f8352081381a
+    m_OutID: 423130d8-3e4b-436c-9bd2-f2618d508ca8
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 2
+  Connections:
+  - m_InID: b54a09aa-2020-438d-8a01-062edd590e9f
+    m_OutID: 8981ab2c-0e2a-49aa-a3d0-9e98633463ef
+  - m_InID: c3584426-50c8-48e5-93b1-df6c7b6d089d
+    m_OutID: 9f5a2bd1-4eaf-4a92-aabc-ef4f93850f21
+  - m_InID: a6bab643-db13-4dee-bbfc-f8352081381a
+    m_OutID: 021a77b7-9136-4ba4-a3f7-03794591caf1
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Yes
+    m_OutID: 8981ab2c-0e2a-49aa-a3d0-9e98633463ef
+  - m_PromptIndex: 1
+    m_Line: No
+    m_OutID: 021a77b7-9136-4ba4-a3f7-03794591caf1

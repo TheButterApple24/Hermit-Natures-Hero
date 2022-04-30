@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _CaptainOdus
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Captain Odus
+    m_Line: Hiya pipsqueak!
+    m_InID: 8d45ecd0-d351-4dd8-b50a-3e6139a70c01
+    m_OutID: 205f8eee-c837-491c-9f7a-1b6e9e91eacd
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 1
+    PitchIndex: 1
+  - m_SpeakerName: Captain Odus
+    m_Line: "You can go on in, but don\u2019t go doing anything I wouldn\u2019t,
+      got it?"
+    m_InID: 58728c0e-bb44-4ab7-9842-92ccea1843fe
+    m_OutID: 144af1e8-6d63-4e86-8476-f90a7b3d7daa
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  Connections:
+  - m_InID: 58728c0e-bb44-4ab7-9842-92ccea1843fe
+    m_OutID: 205f8eee-c837-491c-9f7a-1b6e9e91eacd
+  Prompts: []

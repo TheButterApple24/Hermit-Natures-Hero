@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _SignGirl
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: Confused Woman
+    m_Line: "Oh gosh, which way is left again\u2026"
+    m_InID: 2eaaad71-80f7-4d83-b466-ed3b57cd3042
+    m_OutID: fefcdb17-0496-48f1-87b7-eec250e7eb10
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  - m_SpeakerName: Confused Woman
+    m_Line: Ummm...
+    m_InID: 7429e89a-de08-4937-a148-b98576724404
+    m_OutID: cf66126c-f6ea-4ecd-8208-7f59f130155a
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 2
+  Connections:
+  - m_InID: 7429e89a-de08-4937-a148-b98576724404
+    m_OutID: fefcdb17-0496-48f1-87b7-eec250e7eb10
+  Prompts: []

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfDialogueEditorNode xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DialogueEditorNode>
+    <m_Rect>
+      <x>134</x>
+      <y>74</y>
+      <position>
+        <x>134</x>
+        <y>74</y>
+      </position>
+      <center>
+        <x>234</x>
+        <y>99</y>
+      </center>
+      <min>
+        <x>134</x>
+        <y>74</y>
+      </min>
+      <max>
+        <x>334</x>
+        <y>124</y>
+      </max>
+      <width>200</width>
+      <height>50</height>
+      <size>
+        <x>200</x>
+        <y>50</y>
+      </size>
+      <xMin>134</xMin>
+      <yMin>74</yMin>
+      <xMax>334</xMax>
+      <yMax>124</yMax>
+    </m_Rect>
+    <m_HasPrompts>false</m_HasPrompts>
+    <m_InPoint>
+      <m_ID>7c55b418-4a73-4d7c-a4cf-bb959ad91a3b</m_ID>
+    </m_InPoint>
+    <m_OutPoint>
+      <m_ID>3422cdfc-62dc-48d1-9b31-8accfb460b32</m_ID>
+    </m_OutPoint>
+    <m_Name />
+    <m_Line>YOU WILL BURN ETENRNALLY IN THE GRASP OF IGNIS-HROL!</m_Line>
+    <Emotion>5</Emotion>
+  </DialogueEditorNode>
+</ArrayOfDialogueEditorNode>

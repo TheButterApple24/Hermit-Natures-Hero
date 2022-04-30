@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _TownCrossRoads
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: 
+    m_Line: Left - Small Village
+    m_InID: b409b2e0-0bb2-46eb-95ec-63e2860d10e0
+    m_OutID: 5923d0a9-6575-437d-903f-d19debab26c5
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  - m_SpeakerName: 
+    m_Line: Right - Colosseum Hill
+    m_InID: bebef877-7240-44d4-8716-05e23a0466f3
+    m_OutID: 2d34f1d2-05e9-4e69-a61c-59a332a3f8d3
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 5
+  Connections:
+  - m_InID: bebef877-7240-44d4-8716-05e23a0466f3
+    m_OutID: 5923d0a9-6575-437d-903f-d19debab26c5
+  Prompts: []

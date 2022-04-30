@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98cc8362613a5844ca560eaea48b5206, type: 3}
+  m_Name: _Twig01
+  m_EditorClassIdentifier: 
+  Nodes:
+  - m_SpeakerName: The Twig
+    m_Line: Welcome, young one. I knew you would be here.
+    m_InID: 09b84bef-d8ba-4972-88ee-4c834be04616
+    m_OutID: eaa9dc25-4663-418c-ad4f-4b78b421b12f
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: I could feel it in my roots.
+    m_InID: 246661b4-79eb-40fa-8330-ce6db9f2ea83
+    m_OutID: 481be6b7-a723-4794-a98f-4273b8b761cc
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: Now tell me, what do you wish of me?
+    m_InID: 6a9bbaff-bb79-4150-af37-3aadc2e3a142
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 3
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: I see.
+    m_InID: 6ad2027c-4015-43dd-ad35-cdca12e6a917
+    m_OutID: 9313be2d-74b3-49f4-a3e4-c8b1e8bab481
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: I can grant your wish if you rid the island of some heretics.
+    m_InID: 8e0c3b73-08de-4e58-98ff-e3485ffa719e
+    m_OutID: bc87a7df-4591-4e18-87bc-ab7628f14544
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: You are capable, but are you willing?
+    m_InID: d845c066-fb17-4a7b-9e13-68f603988dee
+    m_OutID: 
+    m_HasPrompts: 1
+    m_PromptNumber: 2
+    m_PromptStartNumber: 3
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: I see.
+    m_InID: adf60828-f346-44d4-85be-ab363f3dfe50
+    m_OutID: f01e53c4-7afe-419f-a11f-217badd67cbb
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: Return their souls to the island and speak here again.
+    m_InID: 882fa920-949f-4cb0-aea0-bb3f6d3ab125
+    m_OutID: 61b37f4f-48ca-481a-8a64-3d800e454f72
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  - m_SpeakerName: The Twig
+    m_Line: You may take your time, but this task will be completed.
+    m_InID: 14d8b17e-7e4d-44db-8f3d-556fef8e2928
+    m_OutID: 10314a57-7529-4ec7-9da4-d6adef7e3d0a
+    m_HasPrompts: 0
+    m_PromptNumber: 0
+    m_PromptStartNumber: 0
+    EmotionIndex: 0
+    PitchIndex: 1
+  Connections:
+  - m_InID: 246661b4-79eb-40fa-8330-ce6db9f2ea83
+    m_OutID: eaa9dc25-4663-418c-ad4f-4b78b421b12f
+  - m_InID: 6a9bbaff-bb79-4150-af37-3aadc2e3a142
+    m_OutID: 481be6b7-a723-4794-a98f-4273b8b761cc
+  - m_InID: 6ad2027c-4015-43dd-ad35-cdca12e6a917
+    m_OutID: 5f19cef1-972c-4d07-a005-343a6c8581f4
+  - m_InID: 6ad2027c-4015-43dd-ad35-cdca12e6a917
+    m_OutID: 3111bd39-4bc2-4d77-8d06-fae978cecfd8
+  - m_InID: 6ad2027c-4015-43dd-ad35-cdca12e6a917
+    m_OutID: 8854cd30-ff69-48c0-82a7-1ca232bba4c1
+  - m_InID: 8e0c3b73-08de-4e58-98ff-e3485ffa719e
+    m_OutID: 9313be2d-74b3-49f4-a3e4-c8b1e8bab481
+  - m_InID: d845c066-fb17-4a7b-9e13-68f603988dee
+    m_OutID: bc87a7df-4591-4e18-87bc-ab7628f14544
+  - m_InID: 882fa920-949f-4cb0-aea0-bb3f6d3ab125
+    m_OutID: f01e53c4-7afe-419f-a11f-217badd67cbb
+  - m_InID: adf60828-f346-44d4-85be-ab363f3dfe50
+    m_OutID: b4a5711b-61a3-4378-88a3-96a7fc3af92e
+  - m_InID: 14d8b17e-7e4d-44db-8f3d-556fef8e2928
+    m_OutID: 633c1c7d-c678-432d-b2e6-3b2ea55ac89f
+  Prompts:
+  - m_PromptIndex: 0
+    m_Line: Muh!
+    m_OutID: 5f19cef1-972c-4d07-a005-343a6c8581f4
+  - m_PromptIndex: 1
+    m_Line: Uhh?
+    m_OutID: 3111bd39-4bc2-4d77-8d06-fae978cecfd8
+  - m_PromptIndex: 2
+    m_Line: Gahhh!
+    m_OutID: 8854cd30-ff69-48c0-82a7-1ca232bba4c1
+  - m_PromptIndex: 3
+    m_Line: Yuh!
+    m_OutID: b4a5711b-61a3-4378-88a3-96a7fc3af92e
+  - m_PromptIndex: 4
+    m_Line: Nah.
+    m_OutID: 633c1c7d-c678-432d-b2e6-3b2ea55ac89f
